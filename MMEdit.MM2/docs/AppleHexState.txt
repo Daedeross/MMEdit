@@ -1,0 +1,95 @@
+  12. HEX CHEATS(APPLE)
+
+On AppleWin you can use save states, which captures a snapshot of your 
+players in the game's memory. This is handy because you can edit on the fly--
+maybe even restore charges to an item, or change its alignment, or just give 
+yourself a ton of experience and gold. I used them a lot to get around 
+certain issues. Each character's data is 128 bytes. So:
+
+char 1 0x470 char 2 0x4f0
+char 3 0x570 char 4 0x5f0
+char 5 0x670 char 6 0x6f0
+char 7 0x770 char 8 0x7f0
+
+I assume you have a working knowledge of hex for this, but still, back up 
+your work once you start. Multibyte values are littleendian(least significant 
+first.) Here's the structure. You add the following below to edit the various 
+hex bytes:
+
+0x00 slot # on disk(00-17 for A-X)
+0x01 town you started in
+0x02-0x0b your character's name, ORed with 0x80.
+0x0c gender, 0=m 1=f 2=n(??)
+0x0d actual alignment, 0-1-2=good-neutral-evil
+0x0e race, 0-1-2-3-4 human-elf-dwarf-gnome-halforc
+0x0f class, 0-1-2-3-4-5-6-7 kni-pal-arc-cle-sor-rob-nin-bar
+0x10 might(actual)
+0x11 intelligence(actual)
+0x12 personality(actual)
+0x13 speed(actual)
+0x14 accuracy(actual)
+0x15 luck(actual)
+Next are the resistance percentages. These aren't defaults.
+0x16 magic
+0x17 fire
+0x18 electricity
+0x19 cold
+0x1a energy
+0x1b sleep
+0x1c fear
+0x1d acid
+0x1e thieving %
+0x1f Armor Class - speed
+0x20-0x21 MaxHP
+0x22 temporary might
+0x23 temporary speed
+0x24 temporary accuracy
+0x25 temporary alignment
+0x26 temporary level
+0x27 temporary spell level
+0x28-0x29 CurSP
+0x2a temporary endurance
+0x2b temporary intelligence
+0x2c temporary personality
+0x2d temporary luck
+0x2e level (actual)
+0x2f age
+0x30 days old
+0x31-0x34 experience
+0x35-0x36 MaxSP
+0x37 spell level(actual)
+0x38-0x39 Gems
+0x3a-0x3b CurHP
+0x3c-0x3d MaxHP
+0x3e-0x40 Gold
+0x41 armor class
+0x42 food
+0x43 condition
+FYI:
+0=OK 1=cursed 2=silent 4=diseased 8=poisoned 10=asleep 20=paralyzed 
+40=unconscious
+All of these can be ORed up to 7f. But 81=dead, 82=stone and all other values 
+are eradicated.
+0x44 endurance(actual)
+0x45-0x4a index # of item equipped in slot 1-6
+0x4b-0x50 index # of backpack item in slot 1-6
+0x51-0x56 # of charges of item equipped in slot 1-6
+0x57-0x5c # of charges of backpack item in slot 1-6
+0x5d-0x62 magic index (+x) of item equipped in slot 1-6
+0x63-0x68 magic index (+x) of backpack item in slot 1-6
+0x69-0x6c ???? these bytes rely on you having various items. I don't know the 
+specifics but they don't seem important. Perhaps it is about random luck 
+functions during combat?
+0x6d high/low bytes = skills. Skills are 0(clear) through f, in alphabetical 
+order.
+[none] / Arms Master / Athlete / Cartographer /
+Crusader / Diplomat / Gambler / Gladiator /
+Hero-heroine / Linguist / Merchant / Moutaineer(sic) /
+/ Navigator / Pathfinder / Pickpocket / Soldier /
+0x6e-0x73 spell flags. Low byte of 6e = 1-1, and you move up from there.
+0x74-0x7f Quest specific flags, I think. Maybe I'll figure them all out one 
+day.
+
+Byte 0xa0 in the save state file determines your location. The high nibble(4 
+bits) is the y-location, the low is the x-location. That's how I got through 
+Woodhaven 2 without too much torture.

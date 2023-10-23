@@ -1,0 +1,52 @@
+	
+
+Might & Magic 2 - Gates to Another World
+
+Cheat Codes:
+------------
+This file explains how to change players in Might and Magic Book Two. It's very simple.
+Use PcTools/PcShell or Norton Utilities to do it. The file in which the game store it's
+playerdata is ROSTER.DAT and every player has exactly same number of characters in that
+file. I'm writing the position for every player in that file. Position 1 is the players
+first character in the file (every players data begins with the name)  and so on. When 
+I writes 20 for example, I mean ASCII character number 20 in hexadecimal (which is ASCII
+32, space, in decimal) and so on.
+                                        
+Positions Description
+---------------------
+1-10	The name of the player. If the name is shorter than 10
+	characters, you must write in 20 (hexadecimal) to the end.
+34      Age.
+37  	Armor Class (AC).
+38	Food.
+39	Condition. 00=Good, 01=Cursed, 02-03=Silenced, 04-FF=Poisoned
+41-46	Equipping things 1-6. See note for the list of things.
+59-64	Backpack things 1-6. See note for the list of things.
+89	Spell points.
+90	Spell points (*256).
+91	Spell points left.
+92	Spell points left (*256).
+93	Gems.
+94	Gems (*256).
+95	HP.
+96	HP (*256).
+99	EP.
+100	EP (*256).
+101	EP (*65280).
+102	EP (FF=30047993856).
+103	Gold.
+104	Gold (*256).
+105	Gold (*65280).
+106	Golf (FF=30047993856).
+107	00=Good, 01=Neutral, 02=Evil, 03=Male, 04=Female
+108	Mgt
+109 Int
+110	Per
+111	Spd
+112	Acy
+113	Lck
+114	Level
+115	SL
+116	End
+117	HP left.
+118	HP left (*256).

@@ -1,0 +1,11 @@
+Offset	Info
+0F		Class:0=Knight, 1=Paladin, Archer, Cleric, Sorcerer, Robber, Ninja, Barbarian
+0A		Town?: 01=Middlegate
+10		Stats
+28-2D	Equiped IDs
+2E-33	Equiped Charges?
+34-39	Equiped Enhancement
+3A-3F	Backpack IDs
+40-45	Backpack Charges?
+46-4B	Backpack Enhancement
+6B		TempStats3  

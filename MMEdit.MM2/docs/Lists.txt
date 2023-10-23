@@ -1,0 +1,1417 @@
+
+
+MIGHT & MAGIC II -- THE GATES TO ANOTHER WORLD
+Miscellaneous Facts and Spoilers v1.24
+
+by Stephen S. Lee (ssjlee@rawbw.com)
+You may distribute this freely, so long as you give proper credit to me.
+This was derived from the PC version; I make no guarantees about
+  applicability to other platforms.
+Please feel free to e-mail me with corrections or suggestions.
+
+Some of the information below is already covered in other walkthroughs
+or guides, but much of it is not.
+
+
+TRANSFERRING CHARACTERS FROM MIGHT & MAGIC I
+--------------------------------------------
+
+Some of this is detailed in the manual; this covers details that aren't.
+
+Don't transfer characters unless you have version 1.01 of the game; the
+transfer routine in version 1.0 has the nasty side effect of eliminating
+all hirelings (which will make solving the game impossible, so don't try
+it).
+
+Your main statistics have a cap of 20, but statistics gained from equipment
+do count for this purpose.
+
+Resistances also tranfer, but these have a cap of 30, and this applies even
+for natural resistances coming from race.  This means that transferred
+characters may have LOWER resistances than freshly-rolled characters.  It
+can be still worthwhile to transfer, if you equip a whole bunch of items
+that give things like fire and magic resistance; you will be mostly be
+missing out on sleep resistance and poison resistance, which aren't as
+useful.  You probably want to visit the scales in Vulcania to compare your
+transfers to freshly-rolled characters, and go from there.
+
+
+MAJOR POINTS OF INTEREST IN CRON
+--------------------------------
+
+Town of Middlegate      C2 (7,3)
+Town of Sandsobar       E4 (4,10)
+Town of Tundara         A1 (12,3)
+Town of Vulcania        E1 (3,4)
+Town of Atlantium       A4 (13,10)
+Castle Hillstone        D4 (13,1)
+Castle Pinehurst        A2 (1,1)
+Castle Woodhaven        C1 (3,14)
+Luxus Palace Royale     D2 (14,14)
+Castle Xabran           C2 (14,8), 9th century
+Dark Keep               B3 (4,4)
+Tower of Mercy          B4 (4,10)
+Corak's Cavern          C2 (5,11)
+Dawn's Mist Cavern      D4 (3,7)
+Dragon's Dominion       D1 (12,14)
+Druid's Point Cavern    C3 (1,6)
+Forbidden Forest Cavern C3 (15,0)
+Gemmaker Volcano        E1 (4,7)
+Ice Cavern              B1 (4,12)
+Murray's Cavern         B4 (2,2)
+Nomadic Rift Cavern     E3 (5,5)
+Sarakin's Mine          A2 (12,3)
+Square Lake Cavern      C2 (10,7)
+
+
+SAFE POINTS
+-----------
+
+This indicates where you party ends up after fleeing combat, or casting the
+Fly or Town Portal spells.
+
+A1 - (13,3)   B1 - (14,3)  C1 - (3,3)   D1 - (5,3)   E1 - (1,3)
+A2 - (8,7)    B2 - (13,7)  C2 - (8,4)   D2 - (4,4)   E2 - (3,7)
+A3 - (8,4)    B3 - (15,3)  C3 - (14,3)  D3 - (13,3)  E3 - (0,0)
+A4 - (14,10)  B4 - (13,15) C4 - (3,14)  D4 - (13,10) E4 - (3,10)
+Town of Middlegate          - (7,5)
+Town of Sandsobar           - (1,8)
+Town of Tundara             - (8,11)
+Town of Vulcania            - (7,2)
+Town of Atlantium           - (15,15)
+Castle Hillstone Dungeon L1 - (8,15)
+Castle Hillstone Dungeon L2 - (8,8)
+Castle Pinehurst            - (15,7)
+Castle Woodhaven            - (7,0)
+Castle Woodhaven Dungeon L1 - (0,14)
+Castle Woodhaven Dungeon L2 - (7,15)
+Luxus Palace Royale         - (7,0)
+Luxus Palace Royale Dun. L1 - (9,8)
+Luxus Palace Royale Dun. L2 - (0,0)
+Cavern Under Middlegate     - (15,8)
+Cavern Under Sandsobar      - (12,7)
+Cavern Under Tundara        - (14,1)
+Cavern Under Vulcania       - (7,1)
+Cavern Under Atlantium      - (8,8)
+Corak's Cavern              - (8,14)
+Dawn's Mist Cavern          - (8,0)
+Dragon's Dominion           - (0,8)
+Druid's Point Cavern        - (8,8)
+Forbidden Forest Cavern     - (6,7)
+Ice Cavern                  - (0,7)
+Murray's Cavern             - (14,14)
+Nomadic Rift Cavern         - (7,7)
+Sarakin's Mine              - (8,0)
+Square Lake Cavern          - (0,0)
+
+
+NATURE'S GATE DESTINATIONS BY DAY
+---------------------------------
+
+The following was determined by experiment and is not complete, but I think
+all the missing days probably fit into clear patterns.  It's useful to know
+that it's possible to time travel to the 9th century without Lord Peabody's
+help.
+
+Tested even-numbered days before day 151 - C2 (8,11)
+1,3,5,7,9,11,13,15,17,19 - C2 (5,11) / Corak's Cavern Entrance
+21,23,25,27,29,31,33,35,37,39 - C3 (1,6) / Druid's Point Cavern Entrance
+41,43,45,55,57,59 - E1 (4,7) / Gemmaker Volcano Entrance
+61,63,65,67,69,71,73,75,77,79 - A2 (12,2) / Sarakin's Mine Entrance
+81,83,85,87,89,91,95.97,99 - E3 (5,5) / Nomadic Rift Cavern Entrance
+93 - D1 (5,6) / Dead Zone Ground Zero
+101,103,105,107,109,111,113,115,117,119 - B1 (4,13) / Ice Cavern Entrance
+121,123,125,127,129 - C3 (15,0) / Forbidden Forest Cavern Entrance
+131,133,135,137,139 - D4 (3,7) / Dawn's Mist Cavern Entrance
+141,143,145,147 - D1 (12,14) / Dragon's Dominion Cavern Entrance
+151-180 - C2 (7,3), 9th century / Future Location of Middlegate
+
+
+HIRELING LOCATIONS
+------------------
+
+Sir Hyron  L1 Knight     Cavern Under Middlegate (0,15)
+Drog       L1 Barbarian
+
+H K Phooey L1 Ninja      Sandsobar (4,10), eat Meal A in Sandsobar
+
+Thund R.   L3 Barbarian  Vulcania (4,2), eat Meal B in Vulcania, then combat
+Aeriel     L3 Sorcerer
+
+Big Bootay L5 Cleric     Atlantium (0,14)
+Cleogotcha L5 Archer
+
+Harry Kari L6 Ninja      Cavern Under Vulcania (1,14)
+No Name    L6 Paladin
+
+Gertrude   L7 Barbarian  Tundara (15,10)
+Rat Fink   L7 Robber
+
+Friar Fly  L9 Cleric     Castle Hillstone (8,4)
+Dark Mage  L9 Sorcerer
+
+Red Duke   L11 Paladin   D1 (14,1)
+Dead Eye   L11 Archer
+
+Nakazawa   L13 Ninja     B4 (10,1), after combat
+Sherman    L13 Paladin
+
+Flailer    L14 Knight    A3 (8,1)
+Fumbler    L16 Robber
+
+Sir Kill   L15 Knight    Sarakin's Mine (7,2)
+Jed I      L15 Archer
+
+Holy Moley L19 Cleric    Dawn't Mist Cavern (4,11)
+Slick Pick L25 Robber
+
+Mr. Wizard L21 Sorcerer  D3 (1,14), after combat
+
+
+STATISTIC BOOSTERS
+------------------
+
+After using a particular booster or exchanger as much as desired, be sure
+to rest the party to make sure the stat changes are permament.  They don't
+show up on the character screen until then or the next combat, and visiting
+another booster or exchanger, a fountain that changes stats, etc. may result
+in a loss of the gained stats.  It's kinda buggy that way and I'm not sure
+exactly what causes it, but resting does prevent the bug.
+
+Also, equipped items count towards the maxima, so once you approach the
+limit for a given method of stat boosting, be sure to remove all equipment
+that boosts that statistic, and replace it only after resting.
+
+Regular Boosters
+These function only if the statistic in question is below 50.
+  Might       - Druid's Point Cavern (1,15)
+  Intellect   - Cavern Under Atlantium (11,15)
+  Personality - Ice Cavern: (15,7) for females, (15,8) for males
+  Endurance   - Cavern Under Vulcania (15,14)
+  Speed       - Nomadic Rift Cavern (0,15)
+  Accuracy    - Castle Pinehurst Dungeon L1 (14,13)
+  Luck        - Dawn's Mist Cavern (12,7)
+
+Circus Boosters
+Each Old Man -> Inner Limits -> Circus cycle gives +10 to a statistic of
+your choice, up to a maximum of 100 in a stat.
+  Circus       - B2 (14,4), day 140-170
+  Old Man      - D3 (7,13), requires Cupie Doll
+  Inner Limits - E3 (10,12), requires giving Cupie Doll to Old Man
+
+Statistic Exchangers
+The highest a statistic can go is 255.
+  +3 Might, -5 Personality   - Castle Woodhaven Dungeon L1 (15,0)
+  +3 Might, -5 Intellect     - Castle Hillstone Dungeon L1 (0,0)
+  +3 Intellect, -5 Endurance - Castle Hillstone Dungeon L2 (3,9)
+  +3 Personality, -5 Luck    - Castle Woodhaven Dungeon L2 (8,6)
+  +3 Endurance, -5 Speed     - Luxus Palace Royale Dungeon L1 (5,0)
+  +3 Speed, -5 Might         - Luxus Palace Royale Dungeon L2 (15,0)
+  +3 Accuracy, -5 Speed      - Castle Pinehurst Dungeon L1 (2,7)
+  +3 Luck, -5 Personality    - Castle Pinehurst Dungeon L2 (4,15)
+
+Alignment Changers
+  Good    - Castle Pinehurst Dungeon L2 (5,1)
+  Neutral - Castle Woodhaven Dungeon L2 (7,8)
+  Evil    - Luxus Palace Royale Dungeon L2 (5,11)
+
+Sex Changers
+  Female - Luxus Palace Royale Dungeon L2 (4,8)
+  Male   - Castle Hillstone Dungeon L2 (0,8)
+
+
+MESSAGE LOCATIONS
+-----------------
+
+Green Messages:
+  1 - B2 (14,9)
+  2 - B3 (12,2)
+  3 - B2 (14,5)
+  4 - B3 (12,9)
+  Interleave - Cavern Under Middlegate (8,14)
+
+Yellow Messages:
+  1 - E3 (7,2)
+  2 - E4 (2,11)
+  3 - D3 (13,4)
+  4 - D4 (12,10)
+  5 - E4 (7,15)
+  6 - D4 (14,15)
+  7 - D3 (5,10)
+  8 - E3 (0,3)
+  9 - D3 (8,2)
+  Interleave - Castle Xabran (13,12)
+
+Red Messages:
+  1 - Elemental Plane of Fire (6,15)
+  2 - Elemental Plane of Water (0,8)
+  3 - Elemental Plane of Earth (7,0)
+  4 - Elemental Plane of Fire (15,7)
+  5 - Elemental Plane of Air (0,7)
+  6 - Elemental Plane of Earth (9,6)
+  7 - Elemental Plane of Water (8,0)
+  8 - Elemental Plane of Earth (15,8)
+  9 - Elemental Plane of Air (7,15)
+  Interleave - Castle Xabran (13,4)
+
+
+SPELL LOCATIONS
+---------------
+
+Everyone in the party can learn all spells in the game at once, on Castle
+Pinehurst Dungeon Level 2 (2,1) for a fee of 2,000,000 gold.
+
+Otherwise ...
+
+Clerical Spells
+ 
+1 Apparition          - buy at Middlegate Temple
+  Awaken              - buy at Middlegate Temple
+  Power Cure          - buy at Middlegate Temple
+
+2 Heroism             - buy at Sandsobar Temple
+  Nature's Gate       - C3 (1,9)
+  Prot. from Elements - buy at Sandsobar Temple
+  Weaken              - buy at Sandsobar Temple
+
+3 Cold Ray            - buy at Tundara Temple
+  Lasting Light       - buy at Tundara Temple
+  Walk on Water       - C2 (11,1)
+
+4 Air Transmutation   - A1 (8,8)
+  Restore Alignment   - buy at Tundara Temple
+  Holy Bonus          - buy at Vulcania Temple
+
+5 Air Encasement      - A1 (1,14)
+  Frenzy              - B4 (8,1)
+  Remove Condition    - buy at Vulcania Temple
+
+6 Earth Transmutation - E4 (8,8)
+  Water Encasement    - A4 (1,1)
+  Water Transmutation - A4 (8,8)
+
+7 Earth Encasement    - E4 (14,1)
+  Fiery Flail         - buy at Vulcania Temple
+
+8 Fire Encasement     - E1 (14,14)
+  Fire Transmutation  - E1 (8,8)
+  Mass Distortion     - buy at Atlantium Temple
+
+9 Divine Intervention - Druid's Point Cavern (15,14)
+  Holy Word           - C1 (5,5)
+  Resurrection        - buy at Atlantium Temple
+  Uncurse Item        - buy at Atlantium Temple
+
+Sorcerer Spells
+
+1 Awaken              - buy at Middlegate Guild
+  Energy Blast        - buy at Middlegate Guild
+  Sleep               - buy at Middlegate Guild
+
+2 Eagle Eye           - Middlegate (10,2)
+  Identify Monster    - buy at Middlegate Guild
+  Lloyd's Beacon      - Corak's Cavern (7,11)
+  Prot. from Magic    - buy at Sandsobar Guild
+
+3 Acid Stream         - buy at Sandsobar Guild
+  Lightning Bolt      - buy at Sandsobar Guild
+  Wizard Eye          - Sandsobar (7,4)
+
+4 Cold Beam           - buy at Sandsobar Guild
+  Feeblemind          - buy at Tundara Guild
+  Fireball            - buy at TUndara Guild
+
+5 Disrupt             - buy at Tundara Guild
+  Fingers of Death    - C1 (1,8)
+  Sand Storm          - buy at Tundara Guild
+
+6 Disintegration      - buy at Vulcania Guild
+  Fantastic Freeze    - buy at Vulcania Guild
+  Super Shock         - buy at Vulcania Guild
+
+7 Dancing Sword       - A2 (15,11)
+  Duplication         - buy at Vulcania Guild
+
+8 Mega Volts          - buy at Atlantium Guild
+  Meteor Shower       - buy at Atlantium Guild
+
+9 Implosion           - buy at Atlantium Guild
+  Inferno             - buy at Atlantium Guild
+  Starburst           - D1 (5,6)
+  Enchant Item        - Gemmaker Volcano (3,3)
+
+
+QUEST LOCATIONS
+---------------
+
+Mt. Farview       - D2 (7,0)
+Dread Knight      - B3 (5,14)
+Frost Dragon Gen. - Forbidden Forest Cavern (8,8)
+Baron Wilfrey     - B2 (11,2)
+Corak's Soul      - C1 (10,15)
+Corak's Body      - Corak's Cavern (8,0)
+Ybmug             - Dark Keep (3,10)
+Yekop             - Tower of Mercy (12,5)
+Dawn              - Dawn's Mist Cavern (8,9)
+Brutal Bruno      - C4 (0,15)
+
+Honor Sword       - D4 (14,11)
+Noble Sword       - D1 (0,8)
+Valor Sword       - A2 (11,2)
+
+Dragon Lord       - D1 (10,12)
+Queen Beetle      - E2 (11,6)
+Serpent King      - E3 (5,6)
+
+Castle Haart      - B1 (5,5)
+Spaz Twit         - A1 (11,3), 7th century
+The Long One      - E2 (5,4), 8th century
+
+A-1 Todilor       - Luxur Palace Royale (0,6)
+J-26 Fluxer       - Castle Pinehurst (7,6)
+M-27 Radicon      - Castle Woodhaven (2,11)
+N-19 Capitor      - Castle Hillstone (3,13)
+Element Orb       - Dawn's Mist Cavern (10,15)
+
+Air Disc          - Castle Xabran (15,15)
+Earth Disc        - Castle Xabran (6,2)
+Fire Disc         - Castle Xabran (6,14)
+Water Disc        - Castle Xabran (15,0)
+
+Shalwend          - Elemental Plane of Air (5,5)
+Pyrannaste        - Elemental Plane of Fire (9,9)
+Gralkor           - Elemental Plane of Earth (4,5)
+Acwalandar        - Elemental Plane of Water (8,8)
+Air Talon         - Elemental Plane of Air (11,7)
+Earth Talon       - Elemental Plane of Earth (8,8)
+Fire Talon        - Elemental Plane of Fire (4,4)
+Water Talon       - Elemental Plane of Water (10,10)
+
+
+MONSTER LISTING
+---------------
+
+(The following chart was derived from Apple ][ binary data kindly supplied
+by Andrew Schultz, and generated via a Perl script that is available upon
+request.)
+
+Monsters are divided into groups of sixteen for the purposes of determining
+random monster difficulty.
+
+Here is an explanation of the table.  Each monster has a two-line entry; the
+header describes the information in the first line only.  Here are the
+abbreviations used:
+
+ID#    -- monster number
+HP     -- monster hit points
+          A "U" following this indicates that the monster is undead.
+AC     -- monster armor class
+Spd    -- monster speed
+At     -- number of monster melee attacks
+Dam    -- maximum damage per melee attack
+          A "M" following this indicates that the monster can attack out of
+          melee range via a missile attack.
+BT     -- bonus on touch; the possible status ailment the monster can inflict
+          with a melee attack.  If this is followed by a "-", the probability
+          of the effect occurring is greatly reduced.  Abbreviations are:
+          Age - rapid aging
+          Asn - assassination
+          Col - collapse
+          Cur - curse
+          Dea - death
+          Dis - disease
+          DrL - drain level
+          DrS - drain spell points
+          DrX - drain experience
+          Era - eradication
+          Par - paralysis
+          Poi - poison
+          Rnd - random effect chosen from this list
+          S$  - steal some gold
+          S$$ - steal all gold
+          S*  - steal some gems
+          S** - steal all gems 
+          S*$ - steal both gold and gems        
+          S%  - steal some food
+          S%% - steal all food
+          SI  - steal an item
+          SII - steal backpack
+          Scr - scramble items
+          Sil - silence
+          Slp - sleep
+          Sta - drain statistic
+          Sto - petrification
+MR     -- monster magic resistance, on a scale from 1 to 7 (blank if the
+          monster cannot resist magic)
+Resist -- monster elemental resistances.  These are all or nothing, and are as
+          follows:
+          F - fire resistance
+          C - cold resistance
+          E - electricity resistance
+          A - acid resistance
+          S - sleep resistance
+          P - hold/paralysis resistance
+W      -- monster melee immunities:
+          A - monster immune to all melee attacks
+          F - monster immune to melee attack from females
+          M - monster immune to melee attack from males
+A#     -- the maximum number of this monster that can be generated randomly
+          in the A-J monster slots.  If there is any excess, all on-screen
+          slots are filled and the chosen off-screen monster is of the same
+          type.
+Br     -- monster bravery rating, from 0 to 3.  This is modified by monster
+          level.
+AF     -- a "+" under the A column means that the monster may advance at the
+            end of a melee round.
+          a "+" under the F column means that the monster may add friends
+            (this doubles the number of offscreen monsters).
+Bri    -- this indicates what the monster can be bribed with:
+          * - monster can be bribed with gems
+          $ - monster can be bribed with gold
+          % - monster can be bribed with food
+ExpPts -- number of experience one of this monster is worth
+
+The second line tells what treasure the monster can drop.  The treasure
+ratings for items and gold are on a 0-3 scale (0 means none), and is modified
+by monster level.  Gems are an either-or proposition.  If the monster has
+a special attack, it is listed last on the second line; each monster that has
+a special attack also has a rating which determines how frequently the monster
+employs the attack in preference to a melee/missile attack.
+
+MONSTER GROUP I
+ID# Monster Name      HP  AC Spd At Dam BT  MR Resist W A# Br AF Bri   ExpPts 
+  0 Creepy Crawler     5   4  20  2   6 Poi-       SP    6  3             150 
+    Items: none    Gold: none                                   
+  1 Giant Beetle      10   7  15  1  10         C ASP    6  3             200 
+    Items: none    Gold: none                                   
+  2 Sewer Rat          8   2  12  1  12 Dis-             8  0  +   %      150 
+    Items: none    Gold: none                                   
+  3 Kobold             8   6  15  2   6                 10  0 ++  $       200 
+    Items: 1       Gold: 1                                      
+  4 Old Miser          1   4  12  1   4                  4  0     $        60 
+    Items: none    Gold: 1    Gems     6/7: Cast Curse               
+  5 Goblin             6   6  15  1  12                 12  1  +  $       200 
+    Items: 1       Gold: 1                                      
+  6 Cripple            1   1   5  2   4 Dis-            10  0    *$%       60 
+    Items: none    Gold: none                                   
+  7 Hungry Plant      10   4  12  1  15 Poi- 1     SP    6  3      %      300 
+    Items: none    Gold: none                                   
+  8 Merchant           6   5  13  1   8                  4  0  + *$%      120 
+    Items: 1       Gold: 1                                      
+  9 Mugger            10   6  16  2   6 S$               8  0  +  $       300 
+    Items: 1       Gold: 1    Gems                              
+ 10 Skeleton           6U  5  14  1   8        FCE SP   12  3 +           200 
+    Items: none    Gold: 1                                      
+ 11 Flesh Eater        6U  4  22  2   6 Dis-       S     8  1 +    %      200 
+    Items: none    Gold: none                                   
+ 12 Poltergeist        8U  6  25  3   4      2 FC ASP   10  1 +           250 
+    Items: none    Gold: none                                   
+ 13 Fool               6   4  16  1   6                  6  1    *$%      150 
+    Items: 1       Gold: 1             4/7: Cast Sleep               
+ 14 Witch's Cat        4   3  18  1   6                  6  1 +    %      150 
+    Items: none    Gold: none                                   
+ 15 Mini Rex          10   6  12  1  12             P    4  2 +    %      250 
+    Items: none    Gold: none                                   
+
+MONSTER GROUP II
+ID# Monster Name      HP  AC Spd At Dam BT  MR Resist W A# Br AF Bri   ExpPts 
+ 16 Greedy Snitch     12   4  16  1   8 S%               8  1     $       150 
+    Items: 1       Gold: 1    Gems                              
+ 17 Orc               20   6  16  1  15M                 8  1  + *$%      250 
+    Items: 1       Gold: 1                                      
+ 18 Beggar            10   4  10  2   6 S*              12  0    *$%      250 
+    Items: none    Gold: 1                                      
+ 19 Sludge Beast      20   4  18  2   6 Poi- 1  C  SP    6  3             400 
+    Items: none    Gold: none          3/7: Spray Acid               
+ 20 Blood Sucker       1  10  22  1   4 Sta-            10  0      %      300 
+    Items: none    Gold: none                                   
+ 21 Venomous Snake    12   3  19  1  10 Poi-             4  2      %      300 
+    Items: none    Gold: none                                   
+ 22 Screaming Pods    15   4  12  2   8 Par-             4  3      %      400 
+    Items: none    Gold: none                                   
+ 23 Man-at-arms       20   9  14  1  16M           SP    5  1     $       400 
+    Items: 1       Gold: 1                                      
+ 24 Conjurer          12   3  16  1   5            S     5  0    *        250 
+    Items: none    Gold: 1    Gems     6/7: Cast Energy Blast        
+ 25 Neophyte Thief    14   6  16  1   6 S$               6  0     $       250 
+    Items: none    Gold: 1    Gems                              
+ 26 Zombie            20U  7   2  2   8 Dis- 1     SP    8  3             400 
+    Items: none    Gold: none                                   
+ 27 Brain Eater       10U  5  18  1  10 Slp- 2     SP    4  3             300 
+    Items: none    Gold: none Gems     6/7: Cast Sleep               
+ 28 Inept Wizard       2   2  10  1   6                  4  0    *        200 
+    Items: none    Gold: 1             2/7: Cast Lightning Bolts     
+ 29 Phantasm          12U  7  20  1  20            SP    6  3             400 
+    Items: none    Gold: none                                   
+ 30 Sprite            12   8  19  1   6            SP    6  2    *        300 
+    Items: 1       Gold: none Gems     4/7: Cast Curse               
+ 31 Thug Trainee      18   7  16  2   9M                 8  2 ++ *$       300 
+    Items: 1       Gold: 1    Gems                              
+
+MONSTER GROUP III
+ID# Monster Name      HP  AC Spd At Dam BT  MR Resist W A# Br AF Bri   ExpPts 
+ 32 Hypnobeetle       20   8  21  2  10 Poi-       S     6  1      %      600 
+    Items: none    Gold: none          3/7: Cast Sleep               
+ 33 Rabid Rodent      20   3  16  2  10 Dis-             6  1      %      400 
+    Items: none    Gold: none                                   
+ 34 Gnome Elder       20   4  19  1   8      2     S     3  1    *        700 
+    Items: 1       Gold: 2    Gems     6/7: Cast Pain                
+ 35 Winged Steed      30   6  18  3   8      3 F   S     8  1     $       800 
+    Items: none    Gold: 1    Gems     4/7: Breathe Fire             
+ 36 Giant Lizard      40   8  18  1  25                 12  2      %      800 
+    Items: none    Gold: none                                   
+ 37 Foot Soldier      35  10  15  2  12            S    10  1     $       500 
+    Items: 1       Gold: 1                                      
+ 38 Ranger            28   7  17  4   6M     1     S     8  1     $       600 
+    Items: 2       Gold: 1                                      
+ 39 Soldier           25   8  15  2  10M           SP   12  1     $       400 
+    Items: 2       Gold: 1                                      
+ 40 Friar             20   3  13  2   8            SP    6  1      %      400 
+    Items: none    Gold: none          4/7: Cast Energy Blast        
+ 41 Burglar           22   5  22  2   7 S$$              4  0    *$       600 
+    Items: 1       Gold: 2    Gems                              
+ 42 Killer Cadaver    30U  6  13  2   6 Dis-       SP    6  3 +           700 
+    Items: none    Gold: none Gems     2/7: Explode                  
+ 43 Ghoul             25U  7  15  2   8 Par-       SP   12  1 +           700 
+    Items: none    Gold: none                                   
+ 44 Juggler           20   4  26  3   6M     4           6  1     $      1500 
+    Items: 1       Gold: 2    Gems     5/7: Juggle Party             
+ 45 Carnage Spirit    25U  8  17  3   8 Sta- 1     SP M  5  3 +          1000 
+    Items: none    Gold: none                                   
+ 46 Kobold Captain    28   8  19  2  10M            P    6  3 ++  $       600 
+    Items: 1       Gold: 1                                      
+ 47 Brainless One     20   6  15  2   8            SP    8  1      %      500 
+    Items: none    Gold: none                                   
+
+MONSTER GROUP IV
+ID# Monster Name      HP  AC Spd At Dam BT  MR Resist W A# Br AF Bri   ExpPts 
+ 48 Arachnoid         45   8  22  2  15 Poi-    C  SP    6  3 +           700 
+    Items: none    Gold: none                                   
+ 49 Insect Plague     35   5  17 16   2            SP    4  3      %      700 
+    Items: none    Gold: none          3/7: Swarm At Party           
+ 50 Crazed Dwarf      45   7  16  2  20            S     8  2 +   $      1200 
+    Items: 1       Gold: 1    Gems     3/7: Frenzy                   
+ 51 Hermit            30   9  14  1  15 SI -       SP    3  1    *$%      500 
+    Items: 2       Gold: 2    Gems                              
+ 52 Mutant Swine      50   8  18  2  15                 10  1 +    %      800 
+    Items: none    Gold: none                                   
+ 53 Swamp Dog         40   7  18  1  20 Dis-       SP   10  1 +    %      600 
+    Items: none    Gold: none                                   
+ 54 Deadly Rattler    40   5  20  1  30 Poi-             4  3      %      600 
+    Items: none    Gold: none                                   
+ 55 Woodsman          50  10  18  2  20M     2     S    18  2  + *$%     1000 
+    Items: 1       Gold: 1                                      
+ 56 Ninja             35  15  27  3  12MAsn- 3     S     4  2 +          1200 
+    Items: 2       Gold: 1    Gems                              
+ 57 Squire            40  10  22  2  15            S     4  2 +           900 
+    Items: 1       Gold: 1                                      
+ 58 Dancing Bones     35U  4  18  2  10      1     SP M 10  3             500 
+    Items: none    Gold: 1                                      
+ 59 Dancing Dead      45U  6  12  1  16 Dis- 2     SP    6  3 +           700 
+    Items: none    Gold: none                                   
+ 60 Cursed Corpse     60U  8  16  2  10 Cur- 1     SP F  8  3 +          1200 
+    Items: none    Gold: none                                   
+ 61 Nasty Witch       38   7  22  2  12      3     SP    2  1    *$       800 
+    Items: 2       Gold: 1    Gems     6/7: Cast Pain                
+ 62 Super Sprite      40  10  22  2  15 Cur- 2     SP    6  2  + *$      1000 
+    Items: 1       Gold: 1    Gems     4/7: Cast Curse               
+ 63 Cat Corpse        40U 10  20  2  18      1     SP    6  3             600 
+    Items: none    Gold: none                                   
+
+MONSTER GROUP V
+ID# Monster Name      HP  AC Spd At Dam BT  MR Resist W A# Br AF Bri   ExpPts 
+ 64 Giant Scorpion    60  11  22  3  20 Poi-       S    10  2 +          1300 
+    Items: none    Gold: none                                   
+ 65 Killer Bees       40   9  20 16   4 Poi-       SP    4  3 +          1300 
+    Items: none    Gold: none          3/7: Swarm At Party           
+ 66 Minor Demon       50  13  18  2  20      2 F   SP    8  2 ++         1200 
+    Items: 1       Gold: 1    Gems     3/7: Cast Energy Blast        
+ 67 Hunchback         35   3  10  2  12               F 18  1    *$%      900 
+    Items: none    Gold: 1                                      
+ 68 Giant Ogre        70   8  17  2  50      1     SP    6  1 +   $      1500 
+    Items: 2       Gold: 2                                      
+ 69 Werebat           35  13  24  3  10 Dis- 2     SP   15  1 +           800 
+    Items: none    Gold: none                                   
+ 70 Wind Mare         50  15  28  3  12 Slp  3  C  S     4  2 +          1000 
+    Items: none    Gold: 2    Gems                              
+ 71 Werebull          62  10  18  1  50 Dis- 2     S     4  2 +  *       1100 
+    Items: 1       Gold: 1    Gems                              
+ 72 Snapping Spore    40   6  16  2  25            S     4  3 +    %      900 
+    Items: none    Gold: 1             2/7: Explode                  
+ 73 Cavalier          70  17  21  3  20M     1     SP    3  3 +   $      1400 
+    Items: 2       Gold: 2                                      
+ 74 Druid             40   9  22  2  12      3     SP    4  1    *        800 
+    Items: 1       Gold: 1    Gems     5/7: Cast Silence             
+ 75 Crazed Native     30   8  20  4  15      4          19  2 +    %     1000 
+    Items: none    Gold: 1             3/7: Frenzy                   
+ 76 Coffin Creep      50U  6   6  2  10      3 FCEASP   10  3 +          1100 
+    Items: 1       Gold: 1    Gems     3/7: Drain Magic              
+ 77 Gargoyle          50  10  20  3  13 Par- 2 FC  SP   12  2 +          1200 
+    Items: 1       Gold: 1    Gems                              
+ 78 Vampiric Rat      45   9  22  2  14                 10  3 ++   %     1100 
+    Items: none    Gold: none                                   
+ 79 Cursed Slayer     50  13  24  3  18MCur- 2     SP    6  3 +          1200 
+    Items: 1       Gold: 1                                      
+
+MONSTER GROUP VI
+ID# Monster Name      HP  AC Spd At Dam BT  MR Resist W A# Br AF Bri   ExpPts 
+ 80 Viking            80  14  20  3  30            S     6  2 +   $      2100 
+    Items: 1       Gold: 1    Gems                              
+ 81 Gnome             40  10  18  2  12 S$   3     SP   18  0  + *$%     1300 
+    Items: 1       Gold: 2    Gems                              
+ 82 Minor Devil       60  16  19  2  40      2 FC  SP    8  2 +          2400 
+    Items: 1       Gold: 1    Gems     3/7: Cast Fireball            
+ 83 Warrior Boar      60  11  21  2  30                  6  2 +    %     1900 
+    Items: none    Gold: none                                   
+ 84 Cockatrice        50  10  18  3  20 Sto-   FC  SP    4  2 +  *$      2200 
+    Items: 2       Gold: 1    Gems                              
+ 85 Killer Canine     50  13  20  2  50            S    10  1 +    %     2000 
+    Items: none    Gold: none                                   
+ 86 Killer Cobra      50  10  19  1  80 Poi-             3  2 +    %     1600 
+    Items: none    Gold: none                                   
+ 87 Champion          80  20  22  3  30M     2 FCE S     4  2     $      2700 
+    Items: 2       Gold: 2                                      
+ 88 Gate Keeper       60  15  13  1  40      2 FCEASP    4  3 +  *$%     2100 
+    Items: 1       Gold: 1    Gems                              
+ 89 Shaman            45   8  17  1  12      3     SP    4  1            1800 
+    Items: 1       Gold: 1    Gems     4/7: Cast Paralyze            
+ 90 Illusionist       45  11  21  1  10 S*   1 FCEAS     8  1            2100 
+    Items: 2       Gold: 1    Gems     3/7: Drain Spell Level        
+ 91 Mounted Patrol    70  22  19  4  25M           S    12  2 ++  $      2800 
+    Items: 2       Gold: 2    Gems                              
+ 92 Night Stalker     60U 14  15  2  30 Sta-       SP    6  3 +          1900 
+    Items: none    Gold: 2    Gems                              
+ 93 Wraith            50U 10  23  5  18 Sta- 2     SP   10  3 +          3000 
+    Items: none    Gold: none                                   
+ 94 Mad Peasant       60  13  19  2  30            S    12  2  +  $%     2500 
+    Items: none    Gold: 1             2/7: Frenzy                   
+ 95 Canine Creep      64  15  24  3  20            SP    6  3 ++  $      2400 
+    Items: 1       Gold: 2                                      
+
+MONSTER GROUP VII
+ID# Monster Name      HP  AC Spd At Dam BT  MR Resist W A# Br AF Bri   ExpPts 
+ 96 Dinobug          100  10  18  1  80            S     2  2 +    %     2000 
+    Items: none    Gold: 1                                      
+ 97 Swarming Wasps    50  15  21 16   5 Poi-             5  3 +          3000 
+    Items: none    Gold: none          3/7: Swarm At Party           
+ 98 Leprechaun        40  28  22  1  20 S$$  6     SP    2  1 +  *$      4000 
+    Items: 2       Gold: 3    Gems     4/7: Vaporize Valuables       
+ 99 Flaming Fear      70  18  18  2  20      1 F EASP    8  3 +          3200 
+    Items: 1       Gold: none Gems     5/7: Breathe Fire             
+100 Leper             40   5   8  1  10 Dis-            26  1  + *$%     1500 
+    Items: none    Gold: 1                                      
+101 Troll             70  13  18  4  30            SP   10  2 +  *$      4000 
+    Items: 2       Gold: 2    Gems                              
+102 Acidic Blob       60  15   7  2  30        FCEAS     6  3 +          2100 
+    Items: none    Gold: none Gems     3/7: Spray Acid               
+103 Werewolf          70  17  21  3  25 Dis- 1     S     4  2 +          3200 
+    Items: 1       Gold: 2                                      
+104 Pyro Hydra        80  15  20  3  50      1 F   SP    2  2 +          5000 
+    Items: 2       Gold: 3    Gems     4/7: Breathe Fire             
+105 Castle Guard      70  17  19  2  32M                15  1  + *$      2600 
+    Items: 1       Gold: 2                                      
+106 Thief             50  16  26  3  16MS**-       S     6  1 ++ *$      2800 
+    Items: 2       Gold: 2    Gems                              
+107 Warrior Maiden    50  19  21  3  20      4        M 15  1 +  *$%     5000 
+    Items: none    Gold: 1                                      
+108 Swamp Thing       70  11  17  2  40 Dis-    CEA P    4  3 +  *$%     4000 
+    Items: none    Gold: 2    Gems     3/7: Spray Poison             
+109 Iron Wizard       80  21  20  2  30            SP A  3  3 +          5000 
+    Items: none    Gold: none Gems     3/7: Cast Fireball            
+110 Mutant            70  16  16  2  30      3 F EASP    8  3 +   $      3200 
+    Items: 2       Gold: 2             2/7: Cast Energy Blast        
+111 Strangler         80  18  25  3  25 Col-       SP    4  2 +          4000 
+    Items: 2       Gold: 2             3/7: Cast Paralyze            
+
+MONSTER GROUP VIII
+ID# Monster Name      HP  AC Spd At Dam BT  MR Resist W A# Br AF Bri   ExpPts 
+112 Dwarven Knight   100  23  24  4  30M     3 FC  SP    4  2 +  *       5000 
+    Items: 2       Gold: 3    Gems                              
+113 Horned Fiend      80  18  19  3  20 Sta- 1 FC  SP    8  3 +          6000 
+    Items: none    Gold: 2    Gems     2/7: Petrification Gaze       
+114 Swamp Beast      100  11  17  4  19           ASP    4  3 +  *$%     5000 
+    Items: none    Gold: 2    Gems     3/7: Spray Acid               
+115 Hill Giant       120  17  21  2  70M       FC  SP    6  2 +   $      5000 
+    Items: 2       Gold: 2                                      
+116 Wyvern           100  15  21  3  40 Poi-       SP   12  2 +   $      5000 
+    Items: 2       Gold: 3    Gems                              
+117 Earth Wyrm       130  19  23  3  60      2 FC  S     4  2 +          7000 
+    Items: 2       Gold: 3    Gems     3/7: Breathe Fire             
+118 White Knight     100  18  27  4  32M     5 FC  SP F  3  2 +   $      8000 
+    Items: 2       Gold: 2                                      
+119 Necromancer       60  13  31  1  15      3     SP    3  1    *$      5000 
+    Items: 2       Gold: 2    Gems     5/7: Cast Fingers of Death    
+120 Mountain Man      90  11  21  3  23M        C  S    18  1 +  *$%     4000 
+    Items: 1       Gold: 1                                      
+121 Gravewalker       70U 15  23  2  20 DrL- 2 FC  SP    6  3 +          5000 
+    Items: none    Gold: none Gems                              
+122 Phantom           64U 19  21  2  30 DrS- 2 FCEASP    4  3 +          6000 
+    Items: none    Gold: none Gems     1/7: Drain Magic              
+123 Lost Soul         80U 18  25  2  25 Age- 2 FCEASP    2  3 +          6000 
+    Items: none    Gold: 1    Gems     5/7: Drain Spell Level        
+124 Slasher           60U 11  20  4  20 Asn        SP    8  3 +          6000 
+    Items: 1       Gold: 1    Gems                              
+125 Guardian         150  13  15  1  50      4 FCEASP    4  3 +          8000 
+    Items: none    Gold: none Gems     1/7: Breathe Gas              
+126 Seductress        60   9  26  1  10 Par- 3     SP M  2  1    *$      8000 
+    Items: 2       Gold: 2    Gems     3/7: Cast Paralyze            
+127 Pixie             90  20  24  2  30 S**- 3  C  SP    6  2    *       6000 
+    Items: 2       Gold: 1    Gems     2/7: Cast Curse               
+
+MONSTER GROUP IX
+ID# Monster Name      HP  AC Spd At Dam BT  MR Resist W A# Br AF Bri   ExpPts 
+128 Lightning Bugs    80  19  25 10  10         CE SP    4  3 +          9000 
+    Items: none    Gold: none          3/7: Breathe Lightning        
+129 Trickster         90  19  21  3  20 S**        S     3  1 +  *$      7000 
+    Items: 2       Gold: 2    Gems                              
+130 Griffin          150  20  22  5  25 Sto- 3 FC  SP    4  2 +  *$     13000 
+    Items: 2       Gold: 2    Gems                              
+131 Pegasus          120  26  29  3  40      5 FCEASP    8  2 +  *$%    11000 
+    Items: 2       Gold: 3    Gems                              
+132 Gorgon           150  14  23  3  30      2 FC  S    10  2 +   $     13000 
+    Items: 2       Gold: 2             3/7: Petrification Gaze       
+133 Cloud Dragon     160  19  26  5  30      2  CE SP    3  2 +  *$     13000 
+    Items: 2       Gold: 3    Gems     4/7: Breathe Cold             
+134 Troubadour       120  16  18  2  30        FCEASP    3  2 +  *$      7000 
+    Items: 2       Gold: 2    Gems                              
+135 Paladin          120  24  26  5  30      2 FCE SP    4  2 +  *$     11000 
+    Items: 2       Gold: 2    Gems                              
+136 Elf Warrior      120  22  32  4  20M           S    12  2    *$      6000 
+    Items: 2       Gold: 2                                      
+137 Priest           100  20  21  2  12            S     4  1    *$      6000 
+    Items: 2       Gold: 2    Gems     5/7: Cast Paralyze            
+138 Assassin         100  22  28  2  80 Asn-       S     3  2 +         10000 
+    Items: 2       Gold: 2                                      
+139 Amazon            90  12  24  2  30M                10  1 +  *$%     5000 
+    Items: none    Gold: 1                                      
+140 Grim Reaper       70U 16  14  2  25 Dea- 4 FCE SP    4  3 +         10000 
+    Items: 2       Gold: 2    Gems     3/7: Cast Fingers of Death    
+141 Mummy            150U 11  10  2  50 Dis- 3  CE SP    6  3 +          8000 
+    Items: none    Gold: none Gems                              
+142 Bonehead          90U 20  16  3  30 Cur- 3     SP    6  3 +          7000 
+    Items: 1       Gold: 2    Gems     2/7: Explode                  
+143 Melting Man      130  22  20  3  30 Par-   F EASP    6  2 +          9000 
+    Items: 2       Gold: 2                                      
+
+MONSTER GROUP X
+ID# Monster Name      HP  AC Spd At Dam BT  MR Resist W A# Br AF Bri   ExpPts 
+144 Demon Soldier    200  22  19  5  50M     2 FC  SP   19  2 +         18000 
+    Items: 2       Gold: 3    Gems                              
+145 Fire Devil       150  22  19  3  60M     3 FC  SP    6  2 +         18000 
+    Items: 1       Gold: 2    Gems     4/7: Cast Fireball            
+146 Apparition       100U 20  21  3  30 Age- 5     SP    4  3 +         11000 
+    Items: none    Gold: 2    Gems                              
+147 Vampire          250U 24  16  3  60 Sta- 4 FCEASP    6  2 +         25000 
+    Items: 2       Gold: 3    Gems     3/7: Cast Lightning Bolts     
+148 Frost Dragon     250  22  16  5  40      2  C ASP    3  2 +   $     22000 
+    Items: 3       Gold: 3    Gems     4/7: Breathe Cold             
+149 Dinosaur         250  16  21  2 100            S     6  1 +         16000 
+    Items: none    Gold: 2                                      
+150 Avenger          160  23  23  4  25M     2     S     2  2 +         15000 
+    Items: 1       Gold: 2                                      
+151 Court Bowman     150  25  23  6  40M           S    12  2  + *$     20000 
+    Items: 2       Gold: 2                                      
+152 Holy Man         100  20  22  2  15      2     SP    2  1    *$     20000 
+    Items: 2       Gold: 2    Gems     3/7: Invoke Power             
+153 Court Mage       100  19  40  1  20      2 FC  SP    4  2    *$     22000 
+    Items: 1       Gold: 2    Gems     6/7: Cast Super Shock         
+154 Warlock           90  20  32  2  19      5 F E SP    6  2    *$     21000 
+    Items: 1       Gold: 2    Gems     5/7: Cast Disintegration      
+155 Barbarian        200  16  23  5  30M     2 FC  S    19  2 +  *$%    16000 
+    Items: 1       Gold: 2                                      
+156 Royal Horseman   250  32  23  6  40            SP    6  2 +         24000 
+    Items: 2       Gold: 2    Gems                              
+157 Court Jester      80  17  24  3  20MScr- 6     SP    2  1 ++ *      25000 
+    Items: 3       Gold: 2    Gems     5/7: Juggle Party             
+158 Fire Faery       230  22  28  3  40 S**- 3 F E SP    6  2  + *      20000 
+    Items: 3       Gold: 2    Gems     4/7: Breathe Fire             
+159 Thug Leader      220  22  23  4  30MCol-        P    8  2 ++  $     20000 
+    Items: 2       Gold: 2                                      
+
+MONSTER GROUP XI
+ID# Monster Name      HP  AC Spd At Dam BT  MR Resist W A# Br AF Bri   ExpPts 
+160 Dino Spider      250  20  20  2 100 Poi-       S     4  3 +         20000 
+    Items: none    Gold: 2             3/7: Spray Poison             
+161 Plant Golem      250  30  14  2  60      4     SP A  4  3 +         30000 
+    Items: 1       Gold: none Gems                              
+162 Stone Golem      250  30  18  2  70      5     SP A  2  3 +         40000 
+    Items: 1       Gold: none Gems                              
+163 War Eagle        300  21  28  3  70        FC  S     3  2 +         25000 
+    Items: 1       Gold: 2                                      
+164 Guardian Hound   200  15  32  2  80      2     S     6  3 ++        20000 
+    Items: none    Gold: none          3/7: Breathe Acid             
+165 Minotaur         150  30  40  2  80 Sta  3 FCE SP    2  2 +         30000 
+    Items: 2       Gold: 3    Gems     3/7: Cast Fireball            
+166 Fire Dragon      300  25  40  5  50      3 F E SP    3  2 +         40000 
+    Items: 3       Gold: 3    Gems     5/7: Breathe Fire             
+167 Shadow Rogue     150  23  32  6  30MS$$-   FC  SP    4  2 +  *$     25000 
+    Items: 2       Gold: 2    Gems                              
+168 Crusader         200  29  40  5  40      4     SP    5  2 +  *$     20000 
+    Items: 2       Gold: 2                                      
+169 Chancellor        90  20  28  1  20      5     S     2  1    *$%    30000 
+    Items: 1       Gold: 2    Gems     5/7: Cast Super Shock         
+170 Ghost            200U 17  40  2  30 Age- 1 FC ASP A  4  3 +         40000 
+    Items: none    Gold: 1    Gems                              
+171 Dead Head        250  15  23  2  50 DrX        SP    4  3 +         25000 
+    Items: 1       Gold: none Gems                              
+172 Enchantress      100  13  50  1  25 DrS  5 FC  SP    2  2    *$     25000 
+    Items: 2       Gold: 2    Gems     5/7: Cast Dancing Sword       
+173 Warbot           300  25  50  3  60      3 FCEASP    8  3 +         40000 
+    Items: none    Gold: none Gems     6/7: Cast Disintegration      
+174 Stalker          140  24  40  3  40            SP    8  2  +   %    30000 
+    Items: none    Gold: none                                   
+175 Hatchet Man      200  25  40  5  32MAsn        SP    4  2 +         23000 
+    Items: 2       Gold: 3                                      
+
+MONSTER GROUP XII
+ID# Monster Name      HP  AC Spd At Dam BT  MR Resist W A# Br AF Bri   ExpPts 
+176 Dwarven Elder    300  24  32  4  80      3 FC  S     2  2 +  *$     70000 
+    Items: 2       Gold: 3    Gems                              
+177 Ooze Warrior     350  22  24  3  70 Sta-   FCEAS     6  3 +         60000 
+    Items: none    Gold: none          3/7: Spray Acid               
+178 Roc              400  21  60  3 100            SP    2  2 +  *$%    70000 
+    Items: 2       Gold: 2                                      
+179 Dagger Jaw       300  22  40  2 150 Poi    FC  SP    2  3 +         60000 
+    Items: 1       Gold: 2                                      
+180 Armored Dragon   400  31  40  5  80      4 FC  SP    2  2 +  *      80000 
+    Items: 3       Gold: 3    Gems     6/7: Breathe Gas              
+181 Tyrannosaurus    500  24  24  3  90            S     4  3 +         70000 
+    Items: none    Gold: 2    Gems                              
+182 Valiant Knight   300  32  60  6  50M     4 FC  SP    4  3 +  *$     80000 
+    Items: 3       Gold: 2    Gems                              
+183 Endless Knight   300  50  50  8  50        FC  S    10  3 +         80000 
+    Items: 3       Gold: none Gems                              
+184 Archer           250  31  50  6  50M     2     SP    6  2    *$     80000 
+    Items: 2       Gold: 2             2/7: Cast Lightning Bolts     
+185 Wizard           150  22  60  1  25      4     S     3  2    *$     70000 
+    Items: 2       Gold: 2    Gems     6/7: Cast Incinerate          
+186 Crypt Fiend      150U 32  24  3  40 Sta  3 FCE SP   12  3 +         80000 
+    Items: 2       Gold: 2    Gems     6/7: Cast Fingers of Death    
+187 Phase Spirit     200U 60  40  4  40 DrS  3 FCEASP A 18  3 +         60000 
+    Items: 1       Gold: 2    Gems     5/7: Drain Magic              
+188 Sorceress        150  18  50  1  25      3 FC  SP    3  2    *$     70000 
+    Items: 2       Gold: 3    Gems     5/7: Cast Incinerate          
+189 Mystic Clown     100  16  32  3  30 Rnd- 6 FC  SP    4  2 ++ *$%   120000 
+    Items: 3       Gold: 2    Gems     5/7: Juggle Party             
+190 Spido Bug        300  22  40  3  70 Poi-     EA      6  3           70000 
+    Items: none    Gold: none                                   
+191 Living Dead      180U 50  32  4  70 Dea- 4 F EASP    8  3 +         60000 
+    Items: 1       Gold: 1    Gems     4/7: Cast Fingers of Death    
+
+MONSTER GROUP XIII
+ID# Monster Name      HP  AC Spd At Dam BT  MR Resist W A# Br AF Bri   ExpPts 
+192 Devil's Mouse    500  31  32  3 120 Col- 4 FC  SP    1  3 +        180000 
+    Items: 2       Gold: 2                                      
+193 Fire Elemental   250  26  30  6  50      4 F EASP    2  3 +        180000 
+    Items: 2       Gold: 2    Gems     3/7: Breathe Fire             
+194 Air Elemental    250  26  30  6  50      4  C  SP    2  3 +        180000 
+    Items: 2       Gold: 2    Gems     4/7: Breathe Cold             
+195 Mist Rider       350  50  70  8  30      3  CEASP    4  2 +  *$    230000 
+    Items: 2       Gold: 2    Gems     3/7: Breathe Cold             
+196 Magic Serpent    800  40  70  2 120      4 FC  SP    2  3 +        250000 
+    Items: 3       Gold: 3    Gems     5/7: Breathe Gas              
+197 Cron Man Trap    400  21  30  4  40            SP M  4  3      %   230000 
+    Items: none    Gold: 3             2/7: Explode                  
+198 Dark Knight      700  60  80 10  40MDrL- 3 FCEASP    6  3 +        250000 
+    Items: 2       Gold: 2                                      
+199 Sorcerer         300  24  70  2  30      3 FC  SP    4  2    *$    150000 
+    Items: 2       Gold: 3    Gems     6/7: Cast Inferno             
+200 Kensai           500  40  60  8  32M           SP    6  3 +  *$%   190000 
+    Items: 2       Gold: 2    Gems                              
+201 Jouster          500  50  40  4  80      1     SP    2  3 +  *$    210000 
+    Items: 3       Gold: 2    Gems                              
+202 Devil's Envoy    500  40  32  5  50 Sta  4 FC  SP    4  3 +        220000 
+    Items: 1       Gold: 2    Gems     3/7: Cast Fireball            
+203 Ethereal Being   250  70 100 10  30 DrL- 1 FCEASP    3  3 +        240000 
+    Items: 1       Gold: 2    Gems                              
+204 Death's Agent    600  40  32  9  50 Age  2 FCEASP    4  3 +        230000 
+    Items: 2       Gold: 2    Gems     4/7: Cast Lightning Bolts     
+205 Alien Probe      500  31  40  4  50      4 FCE SP    4  3 +        230000 
+    Items: none    Gold: none          6/7: Cast Incinerate          
+206 Element Hydra    600  40  50  8  40      3 FCEASP    4  3 +        230000 
+    Items: 2       Gold: 1    Gems     3/7: Breathe Energy           
+207 Monster Masher   500  40  50  6  60 Dea-       SP    4  3 +  *$    250000 
+    Items: 2       Gold: 2    Gems     3/7: Cast Disintegration      
+
+MONSTER GROUP XIV
+ID# Monster Name      HP  AC Spd At Dam BT  MR Resist W A# Br AF Bri   ExpPts 
+208 Devil King      5000  60 110  6 250 Era- 7 FCEASP    1  3 +      30000000 
+    Items: 3       Gold: 3    Gems     1/7: Cast Implosion           
+209 Titan           2000  40  60  4 120 Col- 6 FC  SP    1  3 +       1500000 
+    Items: 3       Gold: 3    Gems     4/7: Cast Dancing Sword       
+210 Ancient Dragon  5000  50  70  8 200      5 FC  SP    1  3 +      20000000 
+    Items: 3       Gold: 3    Gems     5/7: Breathe Energy           
+211 Reptoid         2500  32  40 10  50      1 FC  SP    3  3 +    %  1000000 
+    Items: 1       Gold: 2                                      
+212 Cuisinart       1000  60 160 16 250      2     SP    4  3 +   $  20000000 
+    Items: 3       Gold: 3    Gems     1/7: Frenzy                   
+213 Holy Warrior    1000  80  80 12  60      3 FCEASP    2  3 +  *$   3000000 
+    Items: 3       Gold: 3    Gems                              
+214 Elven Archer    1000  40  90 14  40M     3 FC  SP    3  3 +  *$   1500000 
+    Items: 3       Gold: 3    Gems                              
+215 High Priest     1000  32  40  4  30      4 FC  SP    2  3    *$   3000000 
+    Items: 2       Gold: 3    Gems     3/7: Invoke Power             
+216 Master Robber   1000  40  70  8  40MS$*  3     SP    4  3 +  *$   2000000 
+    Items: 2       Gold: 3    Gems     5/7: Vaporize Valuables       
+217 Master Ninja    1000  60 110 12  40MAsn- 4     SP    3  3 +       2000000 
+    Items: 2       Gold: 2    Gems                              
+218 Lich Lord       2000U 40  50  4  50 Era- 6 FCE SP    1  3 +       6000000 
+    Items: 3       Gold: 3    Gems     3/7: Cast Implosion           
+219 Time Lord       3000 110 210 12 150 Rnd  7 FCEASP    2  3        15000000 
+
+    Items: 3       Gold: 3    Gems     3/7: Invoke Power             
+220 Orc God        50000  40  70  4 200        FCEASP    1  3 +      15000000 
+    Items: 3       Gold: 3    Gems                              
+221 Death in a Box  2000  40  60  8 100 Era- 3 FC ASP    1  3 +       9000000 
+    Items: 2       Gold: 3    Gems     5/7: Cast Disintegration      
+222 Mega Troll      2500  50  60  8 170      2 FCEASP    2  3 +       4000000 
+    Items: 3       Gold: 3                                      
+223 Cat from Hell   2000  40  70  6 100 DrX- 5 F EASP    3  3 +    % 10000000 
+    Items: 2       Gold: 3    Gems     3/7: Invoke Power             
+
+MISCELLANEOUS MONSTER GROUP
+ID# Monster Name      HP  AC Spd At Dam BT  MR Resist W A# Br AF Bri   ExpPts 
+224 Earth Elementl   250  26  30  6  50      4   EASP    2  0 +        180000 
+    Items: 2       Gold: 2    Gems     3/7: Breathe Acid             
+225 Water Elementl   250  26  30  6  50      4  CEASP    2  3 +        180000 
+    Items: 2       Gold: 2    Gems     3/7: Breathe Cold             
+226 Gnasher           25   8  22  2  10        F   S    12  2  +   %      700 
+    Items: none    Gold: none                                   
+227 Chomper           50  15  26  4   8        F   SP   12  3 ++   %     1200 
+    Items: 1       Gold: none          2/7: Frenzy                   
+228 Mutant Fish        6   6  20  1  12 Poi-   F        14  2  +   %      200 
+    Items: none    Gold: none                                   
+229 Sea Monster       70  16  18  3  30        F   SP    3  2      %     4000 
+    Items: 2       Gold: 1             2/7: Petrification Gaze       
+230 Aquasaurus       160  25  20  2  70        F   SP   20  2 +          9000 
+    Items: none    Gold: 2                                      
+231 Cosmic Sludge    130  25  20  3  30 Dis-   FC ASP A  6  3 +   $     11000 
+    Items: 2       Gold: 2                                      
+232 Sarakin          250  25  40  2  40 Age- 3 FCEASP A  1  3    *$    150000 
+    Items: 2       Gold: 3    Gems     2/7: Petrification Gaze       
+233 The Long One     300  30  50  3  70MSta- 1 FCEASP F  1  3 +  *     400000 
+    Items: 3       Gold: 2    Gems     3/7: Invoke Power             
+234 Spaz Twit         50 200  40  4  40M     3 FCEASP    1  3     $    120000 
+    Items: 2       Gold: 2    Gems     4/7: Cast Disintegration      
+235 The Snowbeast     60  16  21  4  25         C  SP    1  3            3000 
+    Items: 2       Gold: 2    Gems                              
+236 Bozorc the Orc   200  25  28  4  40MS$     FC  SP    1  2 +  *$     20000 
+    Items: 3       Gold: 3    Gems                              
+237 Brutal Bruno     300  30  40  6  50M     2     SP    1  3 +   $%    60000 
+    Items: 2       Gold: 2                                      
+238 Death Spider      90  19  23  4  23 Poi-    CE SP    1  3 +         10000 
+    Items: 2       Gold: 1             3/7: Spray Poison             
+239 Dread Knight     300  28  50  4  70M       FCEASP    1  3 +         80000 
+    Items: 3       Gold: 2                                      
+240 Baron Wilfrey    300  50  50  5  60M       FCEASP    1  3           90000 
+    Items: 3       Gold: 2    Gems                              
+241 Mist Warrior     350  30  50  6  60      3 FCEASP    1  3 +        160000 
+    Items: 2       Gold: 2    Gems     4/7: Cast Dancing Sword       
+242 Queen Beetle     350  50  30  4  80 Par    F EASP    1  0 +        230000 
+    Items: 3       Gold: none Gems     3/7: Breathe Gas              
+243 Serpent King     400  60  31  2 200 Poi  4 F EASP    1  3 +        240000 
+    Items: 3       Gold: 2    Gems     4/7: Breathe Acid             
+244 Dragon Lord      340  40  25  6  50 Sto  4 FCEASP    1  3          260000 
+    Items: 3       Gold: 3    Gems     4/7: Breathe Lightning        
+245 Mandagual        100  20  21  4  25MPoi    FCEASP    1  3 +         10000 
+    Items: 2       Gold: 2    Gems                              
+246 Lucky Dog         70  20  22  2  32 Rnd- 3 FCEASP    7  2  +   %     5000 
+    Items: 2       Gold: 1    Gems     3/7: Juggle Party             
+247 The Horvath      400  50  28  4  90 Sto- 2 FCEA      1  3 +  *$    230000 
+    Items: 3       Gold: 2    Gems     3/7: Petrification Gaze       
+248 Orb Guardian     300  32  50  6 100 DrS- 4 FCEASP    1  3 +         80000 
+    Items: none    Gold: none                                   
+249 Dawn             300  25  40  4  70MAsn- 2 FCEA      1  3          200000 
+    Items: 3       Gold: 2    Gems     3/7: Breathe Gas              
+250 Mega Dragon    64000 250 250 16 250MEra  7 FCEASP A  1  3 +      32000000 
+    Items: 3       Gold: 3    Gems     4/7: Breathe Energy           
+251 Shalwend        1000  70  60 16  80 Era  5  CEASP    1  3 +       5000000 
+    Items: 3       Gold: 3    Gems     4/7: Invoke Power             
+252 Pyrannaste      1500  60  50 16  80 Era  4 F EASP    1  3         6000000 
+    Items: 3       Gold: 3    Gems     4/7: Breathe Fire             
+253 Acwalandar      2000  80  70 16 100 Era  6 FCEASP    1  3 +       8000000 
+    Items: 3       Gold: 3    Gems     4/7: Breathe Cold             
+254 Gralkor         1700  70  60 10  80 Era- 4 F E SP    1  3 +       7000000 
+    Items: 3       Gold: 3    Gems     4/7: Breathe Acid             
+255 Sheltem          500  60  40  8  60MCol- 1 FCEASP    1  3 +        500000 
+    Items: 3       Gold: 3    Gems                              
+                            
+
+                              
+ITEM LISTING
+------------
+
+     Abbreviations:
+       I -- iron     Int -- Intellect    Spd -- Speed
+       B -- bronze   Mgt -- Might        Acy -- Accuracy
+       S -- silver   Per -- Personality  Luc -- Luck
+       G -- gold     End -- Endurance
+
+       Fi -- Fire Resistance             K -- Knight
+       Co -- Cold Resistance             P -- Paladin
+       Ac -- Acid Resistance             A -- Archer
+       El -- Electrical Resistance       C -- Cleric
+       Sl -- Sleep Resistance            S -- Sorcerer
+       Po -- Poison Resistance           R -- Robber
+       En -- Energy Resistance           N -- Ninja
+       Ma -- Magic Resistance            B -- Barbarian
+
+       AC  -- armor class
+       MHp -- maximum hit points (actual amount is much greater
+              than shown)
+       Th  -- thievery
+       SpL -- spell level
+
+     Usage bonuses to resistance, vital statistics, skill level,
+     spell level, and maximum hit points are temporary; that is, they
+     last until the party rests or enters an Inn.
+
+     For each enchantment or plus of an object, the equip bonus of
+     the item goes up by one, computed accuracy increases by one,
+     and one point of damage is awarded to the base damage (per hit).
+     The first plus doubles an item's value; subsequent pluses only
+     have an additive effect on value that I don't recall.
+
+     Randomly found treasure with pluses of +5 or higher always has
+     an alignment; treasure with pluses of +4 or lower never does.
+
+                         ONE-HANDED WEAPONS
+
+                           Damage  Equip             Base
+  # Name          Classes   Range  Bonus    Usage   Value
+  1 Small Club    KPACSRNB    1-2  none     none        1
+  2 Small Knife   KPA SRNB    1-3  none     none        5
+  3 Large Club    KPACSRNB    1-4  none     none        5
+  4 Dagger        KPA SRNB    1-4  none     none        8
+  5 Large Knife   KPA SRNB    1-5  none     none       10
+  6 Hand Axe      KPA  RNB    1-5  none     none       10
+  7 Cudgel        KPAC R B    1-5  none     none       12
+  8 Spiked Club   KPA SRNB    1-6  none     none       15
+  9 Bull Whip     K  CSRNB    1-6  none     none       25
+ 10 Long Dagger   KPA SRNB    1-6  none     none       20
+ 11 Maul          KPAC R B    1-6  none     none       30
+ 12 Short Sword   KPA  RN     1-6  none     none       15
+ 13 Nunchakas     K     N     1-6  none     none       30
+ 14 Mace          KPAC R B    1-7  none     none       50
+ 15 Spear         KPA  RNB    1-7  none     none       15
+ 16 Cutlass       KPA  R      1-7  none     none       40
+ 17 Flail         KPAC R      1-8  none     none      100
+ 18 Sabre         KPA  R      1-8  none     none       60
+ 19 Long Sword    KPA  R      1-8  none     none       50
+ 20 Wakizashi     K     N     1-8  none     none       60
+ 21 Scimitar      KPA  R      1-9  none     none       80
+ 22 Battle Axe    KPA  R B   1-10  none     none       60
+ 23 Broad Sword   KPA  R     1-10  none     none      100
+ 24 Katana        K     N    1-10  none     none      150
+ 25 Slumber Club  KPACSRNB    1-4  Sl +15%  S 1-7     100
+ 26 Power Club    KPACSRNB    1-6  Mgt +3   none      200
+ 27 Lucky Knife   KPA SRNB    1-5  Luc +10  none      250
+ 28 Looter Knife  KPA SRNB    1-6  Th +15%  none      400
+ 29 Power Cudgel  KPAC R B    1-5  Mgt +3   none      300
+ 30 Energy Whip   K  CSRNB    1-6  En +15%  S 1-3     500
+ 31 Sonic Whip    K  CSRNB    1-6  Po +15%  C 2-4     500
+ 32 Mighty Whip   K  CSRNB    1-6  Mgt +3   none      400
+ 33 Scorch Maul   KPAC R B    1-6  Fi +15%  none      400
+ 34 Mauler Mace   KPAC R B    1-7  Mgt +6   none      600
+ 35 Exacto Spear  KPA  RNB    1-7  Acy +6   none      800
+ 36 Fiery Spear   KPA  RNB    1-7  Fi +15%  S 4-3    1200
+ 37 Fast Cutlass  KPA  R      1-7  Spd +4   none     1000
+ 38 Quick Flail   KPAC R      1-8  Spd +5   none     1200
+ 39 Shock Flail   KPAC R      1-8  El +15%  S 2-2    1200
+ 40 Sharp Sabre   KPA  R      1-8  Acy +5   none     1500
+ 41 Ego Scimitar  KPA  R      1-9  Per +12  none     2000
+ 42 True Axe      KPA  R B   1-10  Acy +5   none     1800
+ 43 Blazing Axe   KPA  R B   1-10  Fi +15%  none     1500
+ 44 Electric Axe  KPA  R B   1-10  El +15%  S 3-4    2500
+ 45 Rapid Katana  K     N    1-10  Spd +6   none     3000
+ 46 Accurate Swd  KPA  R     1-10  Acy +10  none     4000
+ 47 Chance Sword  KPA  R     1-10  Luc +15  none     4000
+ 48 Speedy Sword  KPA  R     1-10  Spd +10  none     4000
+ 49 Flash Sword   KPA  R     1-10  En +15%  S 3-4    4000
+ 50 Flaming Swd   KPA  R     1-10  Fi +15%  S 4-3    4000
+ 51 Electric Swd  KPA  R     1-10  El +15%  S 6-5    4000
+ 52 Acidic Sword  KPA  R     1-10  Ac +15%  S 3-1    4000
+ 53 Cold Blade    KPA  R     1-10  Co +15%  S 4-1    4000
+ 54 Sage Dagger     A S       1-8  Int +15  Lev +15 20000
+ 55 Holy Cudgel    P C       1-10  Per +15  C 9-2   20000
+ 56 Divine Mace   KPAC R B   1-14  AC +10   C 9-1   30000
+ 57 Ice Scimitar  KPA  R     1-18  Co +15%  S 6-3   20000
+ 58 Grand Axe     KPA  R B   1-20  Mgt +15  Mgt +15 20000
+ 59 Swift Axe     KPA  R B   1-20  Spd +15  Spd +15 20000
+ 60 Dyno Katana   K     N    1-20  El +15%  Lev +15 20000
+ 61 Force Sword   KPA  R     1-20  Mgt +15  Mgt +15 30000
+ 62 Magic Sword   KPA  R     1-20  Ma +15%  Lev +15 30000
+ 63 Thunder Swd   KPA  R     1-20  Mgt +15  S 3-4   30000
+ 64 Energy Blade  KPA  R     1-20  En +15%  S 6-1   30000
+ 65 Photon Blade  K          1-25  Mgt +15  S 9-1   50000
+
+
+                        TWO-HANDED WEAPONS
+
+                           Damage  Equip             Base
+  # Name          Classes   Range  Bonus    Usage   Value
+ 66 Staff         KPACS NB    1-8  none     none       40
+ 67 Sickle        KPA    B    1-8  none     none       30
+ 68 Scythe        KPA    B    1-9  none     none       50
+ 69 Glaive        KPA    B   1-10  none     none       80
+ 70 War Hammer    KPAC   B   1-10  none     none      120
+ 71 Trident       KPA    B   1-11  none     none      100
+ 72 Pike          KPA    B   1-12  none     none      150
+ 73 Naginata      K     N    1-12  none     none      300
+ 74 Bardiche      KPA    B   1-13  none     none      200
+ 75 Great Hammer  KPAC   B   1-14  none     none      300
+ 76 Halberd       KPA    B   1-14  none     none      250
+ 77 Great Axe     KPA    B   1-15  none     none      300
+ 78 Flamberge     KPA        1-16  none     none      400
+ 79 Wind Staff    KPACS NB    1-8  Spd +5   C 5-1    1500
+ 80 Tri-Sickle    KPA    B   1-24  none     none     2000
+ 81 Ice Sickle    KPA    B   1-16  Co +15%  S 4-1    3000
+ 82 Fire Glaive   KPA    B   1-10  Fi +15%  S 4-3    3000
+ 83 Harsh Hammer  KPAC   B   1-15  Mgt +3   none     1500
+ 84 Stone Hammer  KPAC   B   1-18  Ma +15%  none     3000
+ 85 Genius Staff  KPACS N    1-16  Int +10  Lev +15 30000
+ 86 Wizard Staff      S      1-16  Int +15  S 7-4   30000
+ 87 Soul Scythe   KPA    B   1-18  Ma +15%  S 5-2   40000
+ 88 Dark Trident  KPA    B   1-30  AC +5    none    50000
+ 89 Titan's Pike  KPA    B   1-40  Mgt +15  Mgt +15 50000
+ 90 Moon Halberd  KPA    B   1-30  Luc +15  C 7-3   50000
+ 91 Sun Naginata  K     N    1-25  AC +10   Lev +15 40000
+
+                         MISSILE WEAPONS
+
+                           Damage  Equip             Base
+  # Name          Classes   Range  Bonus    Usage   Value
+ 92 Blowpipe      KPA SRNB    1-4  none     none       10
+ 93 Sling         KPA  RNB    1-5  none     none       15
+ 94 Short Bow     KPA   N     1-6  none     none       25
+ 95 Crossbow      KPA  RN     1-8  none     none       50
+ 96 Long Bow      KPA   N    1-10  none     none      100
+ 97 Great Bow     KPA        1-12  none     none      200
+ 98 Shaman Pipe   KPA SRNB    1-4  Ma +10%  SpL +1   1500
+ 99 Cinder Pipe   KPA SRNB    1-4  Fi +10%  S 4-3    2500
+100 Quiet Sling   KPA  RNB    1-5  Sl +15%  C 2-6    1500
+101 Pirates xBow  KPA  RN     1-8  Th +10%  Acy +15  3000
+102 Burning xBow  KPA  RN     1-8  Fi +10%  C 3-5    2500
+103 Fireball Bow  KPA   N    1-10  Fi +15%  S 4-3    5000
+104 Voltage Bow   KPA   N    1-10  El +10%  S 3-4    5000
+105 Giant Sling   KPA  RNB   1-15  Po +15%  Mgt +15 20000
+106 Energy Sling  KPA  RNB   1-10  En +10%  S 1-3   15000
+107 Death Bow     KPA        1-24  Luc +15  Lev +15 40000
+108 Star Bow      KPA        1-24  En +15%  S 9-3   35000
+109 Meteor Bow    KPA        1-24  AC +5    S 8-3   35000
+110 Ancient Bow   KPA        1-35  Acy +15  Acy +15 80000
+
+
+                              KEYS
+  # Name                                            Value
+111 Green Key                                         100
+112 Yellow Key                                        200
+113 Red Key                                           500
+114 Black Key                                        1000
+
+                             SHIELDS
+
+                            Armor  Equip             Base
+  # Name          Classes   Bonus  Bonus            Value
+115 Small Shield  KP C R B     +1  none                15
+116 Large Shield  KP C R B     +2  none                60
+117 Great Shield  KP C R B     +3  none               150
+118 Fire Shield   KP C R B     +3  Fire +15%         2000
+119 Electric Shd  KP C R B     +3  Electricity +15%  2000
+120 Acid Shield   KP C R B     +3  Acid +15%         2000
+121 Cold Shield   KP C R B     +3  Cold +15%         2000
+122 Silver Shld   KP C R B     +3  Energy +15%       2000
+123 Bronze Shld   KP C R B     +3  Poison +15%       2000
+124 Iron Shield   KP C R B     +3  Sleep +15%        2000
+125 Magic Shield  KP C R B     +5  Magic +15%        5000
+126 Gold Shield   KP C R B     +7  Luck +15         10000
+
+                               ARMOR
+
+                            Armor  Equip             Base
+  # Name          Classes   Bonus  Bonus    Usage   Value
+127 Padded Armor  KPACSRNB     +2  none     none       20
+128 Leather Suit  KPAC RNB     +3  none     none       40
+129 Scale Armor   KPAC RNB     +4  none     none      100
+130 Ring Mail     KPAC RN      +5  none     none      200
+131 Chain Mail    KPAC R       +6  none     none      400
+132 Splint Mail   KP C         +7  none     none      600
+133 Plate Mail    KP           +8  none     none     1000
+134 Plate Armor   KP          +10  none     none     2000
+135 I Scale Mail  KPAC RNB     +4  Sl +15%  none     3000
+136 B Scale Mail  KPAC RNB     +4  Po +15%  none     5000
+137 S Scale Mail  KPAC RNB     +4  En +15%  none     5000
+138 I Ring Mail   KPAC RN      +5  Sl +15%  none     5000
+139 B Ring Mail   KPAC RN      +5  Po +15%  none     5000
+140 S Ring Mail   KPAC RN      +5  En +15%  none     5000
+141 I Chain Mail  KPAC R       +6  Sl +15%  none     5000
+142 B Chain Mail  KPAC R       +6  Po +15%  none     5000
+143 S Chain Mail  KPAC R       +6  En +15%  none    10000
+144 I Splintmail  KP C         +7  Sl +15%  none    10000
+145 B Splintmail  KP C         +7  Po +15%  none    10000
+146 S Splintmail  KP C         +7  En +15%  none    10000
+147 I Plate Mail  KP           +8  Sl +15%  none    15000
+148 B Plate Mail  KP           +8  Po +15%  none    15000
+149 S Plate Mail  KP           +8  En +15%  none    15000
+150 G Scale Mail  KPAC RNB     +6  Luc +15  Lev +10 10000
+151 G Ring Mail   KPAC RN      +7  Luc +15  Lev +10 20000
+152 G Chain Mail  KPAC R       +8  Luc +15  Lev +10 40000
+153 G Splint Mail KP C         +9  Luc +15  Lev +12 60000
+154 G Plate Mail  KP          +12  Luc +15  Lev +15 80000
+
+                              HELMETS
+
+                            Armor  Equip             Base
+  # Name          Classes   Bonus  Bonus            Value
+155 Helm          KP C   B     +2  none                30
+156 Iron Helm     KP C   B     +2  Sleep +15%        1000
+157 Bronze Helm   KP C   B     +2  Poison +15%       2000
+158 Silver Helm   KP C   B     +3  Energy +15%       4000
+159 Gold Helm     KP C   B     +4  Luck +15         20000
+
+                     MISCELLANEOUS ITEMS (RANDOM)
+
+                           Equip                     Base
+  # Name          Classes  Bonus       Usage        Value
+160 Magic Herbs   No Equip             C 1-4           50
+161 Torch         No Equip             S 1-5            2
+162 Lantern       No Equip             S 1-5           20
+163 Thief's Pick       RN  Thief +15%  none           200
+164 Rope'n'Hooks  No Equip             S 2-4           10
+165 Wakeup Horn   No Equip none        S 1-1           50
+166 Compass       No Equip             S 1-6          200
+167 Sextant       No Equip             S 1-6          500
+168 Force Potion  No Equip             Might +10      100
+169 Skill Potion  No Equip             Level +5       500
+170 MaxHP Potion  No Equip             Max HP +2     5000
+171 Holy Charm    No Equip none        C 1-7          200
+172 Herbal Patch  No Equip             C 2-1          400
+173 Hero Medal    KPACSRNB Prsnlty +4  C 2-2          800
+174 Silent Horn   KPACSRNB Poison +10% C 2-6          800
+175 Magic Meal    No Equip             C 3-2         1000
+176 Antidote Ale  No Equip             C 3-3         1000
+177 Super Flare   No Equip             C 3-5         1000
+178 Dove's Blood  No Equip             C 4-3         2000
+179 Ray Gun       KPACSRNB Accuracy +4 S 1-3          400
+180 Magic Charm   KPACSRNB Magic +10%  S 2-7          800
+181 Witch Broom   No Equip none        S 3-2         1000
+182 Invisocloak   KPACSRNB Arm Cl +6   S 3-3         2000
+183 Storm Wand    KPACSRNB Electr +10% S 3-4         2000
+184 Lava Grenade  No Equip             S 4-3         2000
+185 Hourglass     No Equip             S 4-6         2000
+186 Instant Keep  No Equip             S 5-4         5000
+187 Teleport Orb  No Equip             S 5-5         5000
+188 Skeleton Key       RN  Thief +10%  none           800
+189 Defense Ring  KPACSRNB Arm Cl +2   S 4-5         5000
+190 Mgt Gauntlet  KPAC R B Might +6    Might +10     5000
+191 Acy Gauntlet  KPAC RNB Accuracy +6 Accuracy +10  5000
+192 Stealth Cape       RN  Thief +10%  Speed +15     5000
+193 Admit 8 Pass  Needed in Corak's Cavern            200
+194 Speed Boots   KPACSRNB Speed +15   C 5-3        15000
+195 Cureall Wand  KPACSRNB Poison +15% C 5-5        15000
+196 Moon Rock     No Equip             C 7-3        15000
+197 Ruby Ankh     KPACSRNB Luck +10    C 7-4        30000
+198 Disruptor     KPACSRNB Energy +15% S 5-1        20000
+199 Lich Hand     K   SR   none        S 5-2        10000
+200 Phaser        KPACSRNB Accuracy +5 S 6-1        20000
+201 Freeze Wand   KPACSRNB Cold +15%   S 6-3        25000
+202 Energizer     No Equip             S 6-4        10000
+203 Magic Mirror  No Equip             S 7-2        30000
+204 Elven Cloak     A  R   Arm Cl +5   S 3-3        10000
+205 Elven Boots     A  R   Speed +5    none         10000
+206 Sage Robe         S    I.Q. +6     Level +10    25000
+207 Enchanted Id  KPACSRNB Prsnlty +15 Level +15    25000
+
+                   MISCELLANEOUS ITEMS (NONRANDOM)
+
+                           Equip                     Base
+  # Name          Classes  Bonus       Usage        Value
+208 Green Ticket  Easy Arena Monsters                  10
+209 Yellow Tickt  Hard Arena Monsters                  50
+210 Red Ticket    Harder Arena Monsters               250
+211 Black Ticket  Hardest Arena Monsters             1000
+212 Fe Farthing   Throw into Feldecarb Fountain        10
+213 Castle Key         RN  Thief +5%                  200
+214 Mark's Keys   Give to Mark the Hermit               1
+215 Dog Whistle   KPACSRNB Luck +1     S 4-4           50
+216 Web Caster    KPACSRNB none        S 3-5          100
+217 Monster Tome  No Equip             S 2-3         2000
+218 Cupie Doll    The Mad Man wants one                 1
+219 Water Talon   No Equip             C 6-4        50000
+220 Air Talon     No Equip             C 5-1        50000
+221 Fire Talon    No Equip             C 8-1        50000
+222 Earth Talon   No Equip             C 7-1        50000
+223 Element Orb   No Equip             S 9-3        30000
+224 Gold Goblet   Nordon wants them back              250
+225 +7 Loincloth  KPACSRNB Prsnlty +10 none          5000
+226 Valor Sword   Lord Hoardall wants this          10000
+227 Honor Sword   ... and this                       5000
+228 Noble Sword   ... and this too                   5000
+229 Corak's Soul  Reunite with Corak's Body             1
+230 Emerald Ring  KPACSRNB Arm Cl +15  none          1000
+231 Water Disc    No Equip             C 6-5        10000
+232 Air Disc      No Equip             C 4-2        10000
+233 Fire Disc     No Equip             C 8-2        10000
+234 Earth Disc    No Equip             C 6-1        10000
+235 Sapphire Pin       R   Luck +15    none         10000
+236 Amethyst Box       R   Luck +15    none         10000
+237 Coral Branch         B Might +15   none         10000
+238 Lapis Scarab         B Might +15   none         10000
+239 Amber Skull       S    I.Q. +15    none         10000
+240 Quartz Skull      S    I.Q. +15    none         10000
+241 Agate Skull    P       Prsnlty +15 none         10000
+242 Opal Pendant   P       Might +15   none         10000
+243 Crystal Vial        N  Speed +15   none         10000
+244 Ruby Amulet         N  Luck +15    none         10000
+245 Ivory Cameo   K        Might +15   none         10000
+246 Ruby Tiara    K        Accracy +15 none         10000
+247 Onyx Effigy      C     Prsnlty +15 none         10000
+248 Pearl Choker     C     Prsnlty +15 none         10000
+249 Topaz Shard     A      Accracy +15 none         10000
+250 Sun Crown       A      I.Q. +15    none         10000
+251 J-26 Fluxer   Needed to get the Element Orb         1
+252 M-27 Radicon  Needed to get the Element Orb         1
+253 A-1 Todilor   Needed to get the Element Orb         1
+254 N-19 Capitor  Needed to get the Element Orb         1
+255 Useless Item  No Equip             none             1
+
+
+TODAY'S SPECIALS
+----------------
+
+The "today's specials" at each town's blacksmith vary in plus by day.  This
+operates in 30-day cycles; this chart shows which days correspond to the
+pluses.
+
+Plus    On days
+  +0    2, 5, 7, 10, 12, 15, 17, 20, 22, 24, 26, 28, 30
+  +1    1, 3, 6, 8, 11, 13, 16, 18, 21
+  +2    4, 9, 23
+  +3    14, 25
+  +4    19, 27
+  +5    29
+
+
+THE RED MESSAGES
+----------------
+
+8 -- Tane seCre d  Con.lidch ay.encCe avenb ingtswthe tomus
+5 -- ociolu owoneBol Neiuamayl Re whcal ts s fr or lap tt h
+2 --  entioTn , woosxt,tll fu eqithon hro avom td.ke ahaurr
+6 -- rt n irmuithwse th y lfidue thsbeughae desh Tgeost ied
+1 -- iwrs vist Arlume pisoll este Qe s tinthtruehemetswhly
+3 -- goneryp fena  tartn tthes aueeneeme de cti n ricaicfix
+9 -- hgs lolir, Mao y mdhair tn n s n.wit deon pvis tgh . J
+7 -- t, ng.estonsnbeustit periauo tO  h TOadandasio feyoVC
+4 --  th Th  bterd w spveasonndihe nTralor K gest ind u
+
+THE TRANSLATION READS:
+
+To right ancient wrongs, the solution is very long.  The Triple Crown
+must first be done, with Arena, Monster Bowl, and Colosseum to be won.
+Next, the party must split individually so that each may fulfill their
+personal destiny.  Request an audience with the Queen so the Chosen
+One can be seen.  Travel through time with Talons and Orb, save the
+dead King from destruction, and get the password.  Then visit the lake
+geometrics to find passage to that which you must hurriedly fix.  JVC
+
