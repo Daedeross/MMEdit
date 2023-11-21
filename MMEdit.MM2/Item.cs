@@ -1,6 +1,6 @@
 ﻿namespace MMEdit.MM2
 {
-    public class MM2Item
+    public class Item
     {
         public byte Id { get; set; }
         public byte Bonus { get; set; }

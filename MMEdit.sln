@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMEdit.MM2", "MMEdit.MM2\MMEdit.MM2.csproj", "{7FA91E99-206A-40E8-9E91-B069369523B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MMEdit.MM2", "MMEdit.MM2\MMEdit.MM2.csproj", "{7FA91E99-206A-40E8-9E91-B069369523B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MMEdit.Wpf", "MMEdit.Wpf\MMEdit.Wpf.csproj", "{F87DC339-BC2D-46B4-97A4-3ED2679FA9EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MMEdit.Core", "MMEdit.Core\MMEdit.Core.csproj", "{5163FE1C-AB9C-433F-855A-DDB19C235F0F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MMEdit.ViewModels", "MMEdit.ViewModels\MMEdit.ViewModels.csproj", "{B18B5AB9-044E-4F57-BC4F-5E389A20BAEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMEdit.Contract", "MMEdit.Contract\MMEdit.Contract.csproj", "{CF0D6FA8-8EA9-4039-BF74-5260970ED30C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMEdit.ViewModels.Contract", "MMEdit.ViewModels.Contract\MMEdit.ViewModels.Contract.csproj", "{EA86714E-936C-445E-A0FB-374DDE0630F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMEdit.Tests", "MMEdit.Tests\MMEdit.Tests.csproj", "{AC733D65-C15E-4E32-A3F7-385F649D3613}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +27,30 @@ Global
 		{7FA91E99-206A-40E8-9E91-B069369523B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FA91E99-206A-40E8-9E91-B069369523B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FA91E99-206A-40E8-9E91-B069369523B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F87DC339-BC2D-46B4-97A4-3ED2679FA9EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87DC339-BC2D-46B4-97A4-3ED2679FA9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87DC339-BC2D-46B4-97A4-3ED2679FA9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87DC339-BC2D-46B4-97A4-3ED2679FA9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5163FE1C-AB9C-433F-855A-DDB19C235F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5163FE1C-AB9C-433F-855A-DDB19C235F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5163FE1C-AB9C-433F-855A-DDB19C235F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5163FE1C-AB9C-433F-855A-DDB19C235F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B18B5AB9-044E-4F57-BC4F-5E389A20BAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18B5AB9-044E-4F57-BC4F-5E389A20BAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18B5AB9-044E-4F57-BC4F-5E389A20BAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18B5AB9-044E-4F57-BC4F-5E389A20BAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF0D6FA8-8EA9-4039-BF74-5260970ED30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0D6FA8-8EA9-4039-BF74-5260970ED30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0D6FA8-8EA9-4039-BF74-5260970ED30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0D6FA8-8EA9-4039-BF74-5260970ED30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA86714E-936C-445E-A0FB-374DDE0630F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA86714E-936C-445E-A0FB-374DDE0630F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA86714E-936C-445E-A0FB-374DDE0630F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA86714E-936C-445E-A0FB-374DDE0630F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC733D65-C15E-4E32-A3F7-385F649D3613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC733D65-C15E-4E32-A3F7-385F649D3613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC733D65-C15E-4E32-A3F7-385F649D3613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC733D65-C15E-4E32-A3F7-385F649D3613}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

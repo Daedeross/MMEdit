@@ -1,4 +1,4 @@
-	
+    
 
 Might & Magic 2 - Gates to Another World
 
@@ -15,7 +15,7 @@ I writes 20 for example, I mean ASCII character number 20 in hexadecimal (which 
 Positions Description
 ---------------------
 1-10	The name of the player. If the name is shorter than 10
-	characters, you must write in 20 (hexadecimal) to the end.
+    characters, you must write in 20 (hexadecimal) to the end.
 34      Age.
 37  	Armor Class (AC).
 38	Food.

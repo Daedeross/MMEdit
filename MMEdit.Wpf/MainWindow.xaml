@@ -1,0 +1,42 @@
+﻿<Window x:Class="MMEdit.Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:lvm="clr-namespace:MMEdit.Wpf.ViewModels"
+        xmlns:views="clr-namespace:MMEdit.Wpf.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="850" Width="800">
+    <Window.DataContext>
+        <lvm:WorkspaceViewModel />
+    </Window.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0">
+            <MenuItem Header="File">
+                <MenuItem Header="Load Roster" Command="{Binding LoadRosterCommand}" />
+            </MenuItem>
+        </Menu>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition Width="auto" />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <ListBox ItemsSource="{Binding Characters}" SelectedItem="{Binding CurrentCharacter}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Name}" />
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <GridSplitter Grid.Column="1" Width="3" Background="Black" VerticalAlignment="Stretch" />
+            <views:MM2CharacterView Grid.Column="2"
+                                DataContext="{Binding CurrentCharacter}" />
+        </Grid>
+    </Grid>
+</Window>

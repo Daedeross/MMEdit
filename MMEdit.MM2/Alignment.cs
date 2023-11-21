@@ -1,6 +1,6 @@
 ﻿namespace MMEdit.MM2
 {
-    public enum MM2Alignment
+    public enum Alignment
     {
         Good = 0,
         Neutral = 1,

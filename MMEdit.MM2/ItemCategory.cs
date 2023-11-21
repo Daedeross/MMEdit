@@ -1,6 +1,6 @@
 ﻿namespace MMEdit.MM2
 {
-    public enum MM2ItemCategory
+    public enum ItemCategory
     {
         OneHandedWeapon,
         TwoHandedWeapon,

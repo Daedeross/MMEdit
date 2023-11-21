@@ -1,6 +1,6 @@
 ﻿namespace MMEdit.MM2
 {
-    public enum MM2Race
+    public enum Race
     {
         Human = 0,
         Elf,

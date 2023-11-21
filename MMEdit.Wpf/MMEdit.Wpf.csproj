@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dirkster.NumericUpDownLib" Version="3.4.0" />
+    <PackageReference Include="Extended.Wpf.Toolkit" Version="4.5.1" />
+    <PackageReference Include="MvvmLightLibs" Version="5.4.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MMEdit.Contract\MMEdit.Contract.csproj" />
+    <ProjectReference Include="..\MMEdit.MM2\MMEdit.MM2.csproj" />
+    <ProjectReference Include="..\MMEdit.ViewModels\MMEdit.ViewModels.csproj" />
+  </ItemGroup>
+
+  <Target Name="DeleteAvalonDock" AfterTargets="PostBuildEvent">
+    <ItemGroup>
+      <FilesToDelete Include="$(OutDir)*.AvalonDock.*" />
+    </ItemGroup>
+    <Exec Command="echo Testing2" />
+    <Message Text="Deleting AvalonDock" />
+    <Delete Files="@(FilesToDelete)" />
+  </Target>
+</Project>

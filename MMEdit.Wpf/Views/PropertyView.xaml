@@ -1,0 +1,150 @@
+﻿<UserControl x:Class="MMEdit.Wpf.Views.PropertyView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             xmlns:u="clr-namespace:MMEdit.Wpf.Utilities"
+             xmlns:sbc="clr-namespace:Stopbyte.Controls"
+             xmlns:spin="clr-namespace:NumericUpDownLib;assembly=NumericUpDownLib"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             >
+    <UserControl.Resources >
+        <u:DecimalTypeConverter x:Key="decimalConverter" />
+        <u:PropertyDataTemplateSelector x:Key="propertyDataTemplateSelector"/>
+        <HierarchicalDataTemplate x:Key="collectionTemplate"
+                                  ItemsSource="{Binding Path=Children}"
+                                  ItemTemplateSelector="{StaticResource ResourceKey=propertyDataTemplateSelector}">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition SharedSizeGroup="Name" />
+                    <ColumnDefinition SharedSizeGroup="Splitter" />
+                    <ColumnDefinition SharedSizeGroup="Value" />
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="{Binding Name}" Grid.Column="0" />
+            </Grid>
+        </HierarchicalDataTemplate>
+        <DataTemplate x:Key="ByteTemplate">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition SharedSizeGroup="Name" />
+                    <ColumnDefinition SharedSizeGroup="Splitter" />
+                    <ColumnDefinition SharedSizeGroup="Value" />
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="{Binding Name}" Grid.Column="0" />
+                <spin:ByteUpDown Value="{Binding Value}"
+                                 IsMouseDragEnabled="False"
+                                 SelectAllTextOnFocus="True"
+                                 IsReadOnly="False"
+                                 Grid.Column="2" />
+            </Grid>
+        </DataTemplate>
+        <DataTemplate x:Key="SByteTemplate">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition SharedSizeGroup="Name" />
+                    <ColumnDefinition SharedSizeGroup="Splitter" />
+                    <ColumnDefinition SharedSizeGroup="Value" />
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="{Binding Name}" Grid.Column="0" />
+                <spin:SByteUpDown Value="{Binding Value}"
+                                  IsMouseDragEnabled="False"
+                                  SelectAllTextOnFocus="True"
+                                  IsReadOnly="False"
+                                  Grid.Column="2" />
+            </Grid>
+        </DataTemplate>
+        <DataTemplate x:Key="UInt16Template">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition SharedSizeGroup="Name" />
+                    <ColumnDefinition SharedSizeGroup="Splitter" />
+                    <ColumnDefinition SharedSizeGroup="Value" />
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="{Binding Name}" Grid.Column="0" />
+                <spin:UShortUpDown Value="{Binding Value}"
+                                   IsMouseDragEnabled="False"
+                                   SelectAllTextOnFocus="True"
+                                   IsReadOnly="False"
+                                   Grid.Column="2" />
+            </Grid>
+        </DataTemplate>
+        <DataTemplate x:Key="Int16Template">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition SharedSizeGroup="Name" />
+                    <ColumnDefinition SharedSizeGroup="Splitter" />
+                    <ColumnDefinition SharedSizeGroup="Value" />
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="{Binding Name}" Grid.Column="0" />
+                <spin:ShortUpDown Value="{Binding Value}"
+                                  IsMouseDragEnabled="False"
+                                  SelectAllTextOnFocus="True"
+                                  IsReadOnly="False"
+                                  Grid.Column="2" />
+            </Grid>
+        </DataTemplate>
+        <DataTemplate x:Key="UInt32Template">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition SharedSizeGroup="Name" />
+                    <ColumnDefinition SharedSizeGroup="Splitter" />
+                    <ColumnDefinition SharedSizeGroup="Value" />
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="{Binding Name}" Grid.Column="0" />
+                <spin:UIntegerUpDown Value="{Binding Value}"
+                                     IsMouseDragEnabled="False"
+                                     SelectAllTextOnFocus="True"
+                                     IsReadOnly="False"
+                                     Grid.Column="2" />
+            </Grid>
+        </DataTemplate>
+        <DataTemplate x:Key="Int32Template">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition SharedSizeGroup="Name" />
+                    <ColumnDefinition SharedSizeGroup="Splitter" />
+                    <ColumnDefinition SharedSizeGroup="Value" />
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="{Binding Name}" Grid.Column="0" />
+                <spin:NumericUpDown Value="{Binding Value}"
+                                    IsMouseDragEnabled="False"
+                                    SelectAllTextOnFocus="True"
+                                    IsReadOnly="False"
+                                    Grid.Column="2" />
+            </Grid>
+        </DataTemplate>
+        <DataTemplate x:Key="stringTemplate">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition SharedSizeGroup="Name" />
+                    <ColumnDefinition SharedSizeGroup="Splitter" />
+                    <ColumnDefinition SharedSizeGroup="Value" />
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="{Binding Name}" Grid.Column="0" />
+                <TextBox Text="{Binding Path=Value}" Grid.Column="2" />
+            </Grid>
+        </DataTemplate>
+    </UserControl.Resources>
+    <Grid Grid.IsSharedSizeScope="true">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid HorizontalAlignment="Stretch">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition SharedSizeGroup="Name" MinWidth="100" />
+                <ColumnDefinition SharedSizeGroup="Splitter" Width="3" />
+                <ColumnDefinition SharedSizeGroup="Value" MinWidth="100" />
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Column="0">Property Name</TextBlock>
+            <GridSplitter Grid.Column="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  />
+            <TextBlock Grid.Column="2">Property Value</TextBlock>
+        </Grid>
+        <TreeView ItemsSource="{Binding Children}"
+                  Grid.Row="1"
+                  ItemTemplateSelector="{StaticResource ResourceKey=propertyDataTemplateSelector}">
+        </TreeView>
+    </Grid>
+</UserControl>

@@ -1,11 +1,54 @@
+Character Data (offset from start of character)
 Offset	Info
+00-09	Name
+0B		Town?: 01=Middlegate,02=Atalantium
+0C		Gender (0=Male, 1=Female, 2=NonBinary)
+0D		Alignment
+0E		Race (0=Human, 1=Elf, Dwarf, Gnome, HalfOrc)
 0F		Class:0=Knight, 1=Paladin, Archer, Cleric, Sorcerer, Robber, Ninja, Barbarian
-0A		Town?: 01=Middlegate
-10		Stats
-28-2D	Equiped IDs
+10		Mgt (actual)
+11		Int (actual)
+12		Per (actual)
+13		Spd (actual)
+14		Acy (actual)
+15		Lck (actual)
+16		Level (actual)
+17		Spell level (actual)
+1B		Maybe related to # of days character has been active?
+1E		Thievery
+1F		AC - Speed Bonus (recalced on rest?)
+21		Age
+24		AC (actual)
+25		Food
+26		Condition Mask (x01=Cursed, x02=Silenced, x04=diseased, x8=poisoned, x10=asleep, x20=paralyzed, 
+x40=unconscious, x81=dead, x82=stone, x83+=eradicated)
+27		End (actual)
+28-2D	Equiped IDs	(each byte is one slot, starting wiht first slot)
 2E-33	Equiped Charges?
 34-39	Equiped Enhancement
 3A-3F	Backpack IDs
 40-45	Backpack Charges?
 46-4B	Backpack Enhancement
-6B		TempStats3  
+50		Skills (High hex is skill2, low hex is skill 1. 0=clear, 1-F are each skill in alpha order)
+58-59	Current SP (uint16)
+5A-5B	Max SP (uint16)
+5C-5D	Gems (uint16)
+5E-5F	Current HP (uint16)
+60-61	Max HP (uint16)
+63-66	Experience (little endian uint32)
+67-6A	Gold (little endian uint32)
+6B		Temp Mgt
+6C		Temp Int
+6D		Temp Per
+6E		Temp Spd
+6F		Temp Acy
+70		Temp Lck
+71		Level? (temp?)
+72		Spell Level (temp)
+73		Temp End
+74-75	Temp Max HP (uint16)
+
+Party/World Data (offset from beginning of file)
+Offset	Info
+1872	CurrentDay
+1885-6	Current Year (maybe)
